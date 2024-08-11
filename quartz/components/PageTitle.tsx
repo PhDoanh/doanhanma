@@ -2,7 +2,6 @@ import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
-import style from "./styles/pageTitle.scss"
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
@@ -14,6 +13,16 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   )
 }
 
-PageTitle.css = style
+PageTitle.css = `
+.page-title {
+	font-size: 1.75rem;
+	margin: 0;
+}
+
+.page-title a,
+.page-title a:hover {
+	color: var(--light) !important;
+}
+`
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor

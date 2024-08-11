@@ -2,9 +2,20 @@
 @use "./variables.scss" as *;
 @use "../components/styles/toc.scss";
 @use "../components/styles/footer.scss";
-@use "../components/styles/pageTitle.scss";
 @use "../components/styles/darkmode.scss";
 
+// base.scss
+.page {
+	&>#quartz-body {
+		& .page-header {
+			margin: calc($topSpacing - 3.5rem) auto 0 auto;
+
+			@media all and (max-width: $fullPageWidth) {
+				margin-top: 0rem;
+			}
+		}
+	}
+}
 // toc.scss
 #toc-content {
 	& ul {
@@ -25,16 +36,6 @@
 			align-items: center;
 		}
 	}
-}
-
-// pageTitle.scss
-.page-title {
-	font-size: 1.75rem;
-	margin: 0;
-}
-
-.page-title a {
-	color: var(--light);
 }
 
 // darkmode.scss

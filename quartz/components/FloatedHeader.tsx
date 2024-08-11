@@ -27,7 +27,7 @@ FloatedHeader.css = `
 	flex: auto;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1510px) {
 	#floated-header {
 		padding: 0 1rem;
 	}

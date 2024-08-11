@@ -24,6 +24,10 @@
     & > p {
       display: inline;
       padding: 0 1rem;
+
+      @media all and (max-width: $mobileBreakpoint) {
+        display: none;
+      }
     }
 
     & svg {
@@ -36,8 +40,20 @@
         stroke: var(--darkgray);
         stroke-width: 2px;
         transition: stroke 0.5s ease;
+
+        @media all and (max-width: $mobileBreakpoint) {
+          stroke: var(--light);
+        }
       }
     }
+
+    @media all and (max-width: $mobileBreakpoint) {
+      background-color: transparent;
+    }
+  }
+
+  @media all and (max-width: $mobileBreakpoint) {
+    flex-grow: 0;
   }
 
   & > #search-container {

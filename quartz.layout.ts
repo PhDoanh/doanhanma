@@ -5,11 +5,29 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'PhDoanh/quartz',
+        // from data-repo-id
+        repoId: 'R_kgDOMh8WzA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOMh8WzM4Chibk',
+        inputPosition: "top",
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Source code": "https://github.com/PhDoanh/doanhanma",
+      Facebook: "https://www.facebook.com/PGDoanh",
+      Youtube: "https://www.youtube.com/@phamgiadoanh",
+      Zalo: "https://zalo.me/0389161519",
+      "Email me": "mailto:phdoanh285@gmail.com" // instead of contact form in the near future
     },
   }),
 }
@@ -20,25 +38,33 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    Component.DesktopOnly(Component.TagList()),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
+    Component.DesktopOnly(Component.Backlinks()),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    // Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.MobileOnly(Component.Backlinks()),
+    Component.MobileOnly(Component.TagList()),
+    // Component.TagContent(),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta()
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

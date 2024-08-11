@@ -1,3 +1,26 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
+@use "../components/styles/toc.scss";
+@use "../components/styles/footer.scss";
 
-// put your custom CSS here!
+// toc.scss
+#toc-content {
+	& ul {
+		&>li>a {
+			opacity: 0.75;
+		}
+	}
+}
+
+// footer.scss
+@media screen and (max-width: $fullPageWidth) {
+	footer {
+		text-align: center;
+
+		& ul {
+			flex-direction: column;
+			gap: 0rem;
+			align-items: center;
+		}
+	}
+}

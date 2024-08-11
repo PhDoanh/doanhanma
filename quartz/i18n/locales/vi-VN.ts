@@ -7,40 +7,40 @@ export default {
   },
   components: {
     callout: {
-      note: "Ghi Chú",
-      abstract: "Tóm Tắt",
+      note: "Ghi chú",
+      abstract: "Tóm tắt",
       info: "Thông tin",
-      todo: "Cần Làm",
-      tip: "Gợi Ý",
-      success: "Thành Công",
-      question: "Nghi Vấn",
-      warning: "Cảnh Báo",
-      failure: "Thất Bại",
-      danger: "Nguy Hiểm",
+      todo: "Việc cần làm",
+      tip: "Gợi ý",
+      success: "Thành công",
+      question: "Câu hỏi",
+      warning: "Cảnh báo",
+      failure: "Thất bại",
+      danger: "Nguy hiểm",
       bug: "Lỗi",
-      example: "Ví Dụ",
-      quote: "Trích Dẫn",
+      example: "Ví dụ",
+      quote: "Trích dẫn",
     },
     backlinks: {
-      title: "Liên Kết Ngược",
-      noBacklinksFound: "Không có liên kết ngược được tìm thấy",
+      title: "Các bài viết liên quan",
+      noBacklinksFound: "Không có",
     },
     themeToggle: {
-      lightMode: "Sáng",
-      darkMode: "Tối",
+      lightMode: "Ngày",
+      darkMode: "Đêm",
     },
     explorer: {
-      title: "Trong bài này",
+      title: "Khám phá",
     },
     footer: {
       createdWith: "Được tạo bởi",
     },
     graph: {
-      title: "Biểu Đồ",
+      title: "Bản Đồ",
     },
     recentNotes: {
-      title: "Bài viết gần đây",
-      seeRemainingMore: ({ remaining }) => `Xem ${remaining} thêm →`,
+      title: "Cập nhật gần đây",
+      seeRemainingMore: ({ remaining }) => `Xem thêm ${remaining} →`,
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Bao gồm ${targetSlug}`,
@@ -48,10 +48,10 @@ export default {
     },
     search: {
       title: "Tìm Kiếm",
-      searchBarPlaceholder: "Tìm kiếm thông tin",
+      searchBarPlaceholder: "#tag - tìm theo thẻ",
     },
     tableOfContents: {
-      title: "Bảng Nội Dung",
+      title: "Tổng quan bài viết",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `đọc ${minutes} phút`,

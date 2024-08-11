@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.PageTitle(),
     Component.Spacer(),
     // Component.MobileOnly(Component.Spacer()),
+    Component.NavigationBar(),
     Component.Search(),
     Component.Darkmode(),
   ],

@@ -3,7 +3,7 @@
 @use "../components/styles/toc.scss";
 @use "../components/styles/footer.scss";
 @use "../components/styles/pageTitle.scss";
-@use "../components/styles/darkMode.scss";
+@use "../components/styles/darkmode.scss";
 
 // toc.scss
 #toc-content {
@@ -37,7 +37,7 @@
 	color: var(--light);
 }
 
-// darkMode.scss
+// darkmode.scss
 .darkmode {
 	& svg {
 		fill: var(--light);

@@ -8,46 +8,47 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "💪 Doanhanma",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
+    analytics: { // page tracker
+      provider: "google",
+      tagId: "G-59D57MVJSQ",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "vi-VN",
+    baseUrl: "phdoanh.github.io/doanhanma",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Roboto Slab",
+        body: "Roboto",
+        code: "Source Code Pro",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#ffffff", // page background
+          lightgray: "#e5e5e5", // borders
+          gray: "#b8b8b8", // graph links, heavier borders
+          darkgray: "#212121", // body text
+          dark: "#2b2b2b", // header text and icons
+          secondary: "#468585", // link colour, current graph node
+          tertiary: "#50B498", // hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, highlighted lines of code
+          textHighlight: "#fff23644", // markdown highlighted text background
         },
         darkMode: {
-          light: "#161618",
+          light: "#1e2129",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#9CDBA6",
+          tertiary: "#DEF9C4",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          textHighlight: "#fff23644",
         },
       },
     },

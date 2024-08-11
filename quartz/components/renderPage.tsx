@@ -1,6 +1,7 @@
 import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
-import HeaderConstructor from "./Header"
+import HeaderConstructor from "./FloatedHeader"
+// import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { clone, FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
@@ -11,7 +12,8 @@ import { i18n } from "../i18n"
 
 interface RenderComponents {
   head: QuartzComponent
-  header: QuartzComponent[]
+  floatedHeader: QuartzComponent[]
+  // header: QuartzComponent[]
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
   afterBody: QuartzComponent[]
@@ -185,7 +187,8 @@ export function renderPage(
 
   const {
     head: Head,
-    header,
+    floatedHeader,
+    // header,
     beforeBody,
     pageBody: Content,
     afterBody,
@@ -193,7 +196,7 @@ export function renderPage(
     right,
     footer: Footer,
   } = components
-  const Header = HeaderConstructor()
+  const FloatedHeader = HeaderConstructor()
   const Body = BodyConstructor()
 
   const LeftComponent = (
@@ -217,16 +220,21 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
+        <FloatedHeader {...componentData}>
+          {floatedHeader.map((HeaderComponent) => (
+            <HeaderComponent {...componentData} />
+          ))}
+        </FloatedHeader>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
               <div class="page-header">
-                <Header {...componentData}>
+                {/* <Header {...componentData}>
                   {header.map((HeaderComponent) => (
                     <HeaderComponent {...componentData} />
                   ))}
-                </Header>
+                </Header> */}
                 <div class="popover-hint">
                   {beforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />

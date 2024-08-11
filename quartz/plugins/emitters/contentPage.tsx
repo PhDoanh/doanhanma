@@ -4,7 +4,8 @@ import { Root } from "hast"
 import { VFile } from "vfile"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
-import HeaderConstructor from "../../components/Header"
+import HeaderConstructor from "../../components/FloatedHeader"
+// import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
@@ -59,8 +60,9 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
     ...userOpts,
   }
 
-  const { head: Head, header, beforeBody, pageBody, afterBody, left, right, footer: Footer } = opts
-  const Header = HeaderConstructor()
+  const { head: Head, floatedHeader/*header*/, beforeBody, pageBody, afterBody, left, right, footer: Footer } = opts
+  const FloatedHeader = HeaderConstructor()
+  // const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
   return {
@@ -68,9 +70,11 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
     getQuartzComponents() {
       return [
         Head,
-        Header,
+        FloatedHeader,
+        // Header,
         Body,
-        ...header,
+        ...floatedHeader,
+        // ...header,
         ...beforeBody,
         pageBody,
         ...afterBody,

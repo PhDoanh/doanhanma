@@ -2,6 +2,8 @@
 @use "./variables.scss" as *;
 @use "../components/styles/toc.scss";
 @use "../components/styles/footer.scss";
+@use "../components/styles/pageTitle.scss";
+@use "../components/styles/darkMode.scss";
 
 // toc.scss
 #toc-content {
@@ -22,5 +24,22 @@
 			gap: 0rem;
 			align-items: center;
 		}
+	}
+}
+
+// pageTitle.scss
+.page-title {
+	font-size: 1.75rem;
+	margin: 0;
+}
+
+.page-title a {
+	color: var(--light);
+}
+
+// darkMode.scss
+.darkmode {
+	& svg {
+		fill: var(--light);
 	}
 }

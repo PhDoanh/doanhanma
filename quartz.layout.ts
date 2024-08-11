@@ -4,7 +4,14 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  floatedHeader: [
+    Component.PageTitle(),
+    Component.Spacer(),
+    // Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+  ],
+  // header: [],
   afterBody: [
     Component.Comments({
       provider: 'giscus',
@@ -43,10 +50,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.Backlinks()),
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
     // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -66,11 +69,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.ContentMeta()
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }

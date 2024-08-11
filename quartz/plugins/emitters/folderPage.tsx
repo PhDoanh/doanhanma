@@ -1,6 +1,7 @@
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
-import HeaderConstructor from "../../components/Header"
+import HeaderConstructor from "../../components/FloatedHeader"
+// import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
@@ -34,7 +35,8 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
   }
 
   const { head: Head, floatedHeader/*header*/, beforeBody, pageBody, afterBody, left, right, footer: Footer } = opts
-  const Header = HeaderConstructor()
+  const FloatedHeader = HeaderConstructor()
+  // const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
   return {
@@ -42,7 +44,8 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
     getQuartzComponents() {
       return [
         Head,
-        Header,
+        FloatedHeader,
+        // Header,
         Body,
         ...floatedHeader,
         // ...header,

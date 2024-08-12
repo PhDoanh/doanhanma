@@ -7,3 +7,4 @@ TODOs
 - [x] change favicon and web brand
 - [x] sticky header
 - [x] localize vi-VN
+- [x] Add recent notes for desktop only

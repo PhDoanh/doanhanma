@@ -36,7 +36,7 @@ export default {
       createdWith: "Được tạo bởi",
     },
     graph: {
-      title: "Bản Đồ",
+      title: "Các liên kết với bài viết này",
     },
     recentNotes: {
       title: "Cập nhật gần đây",

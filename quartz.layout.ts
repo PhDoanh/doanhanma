@@ -13,23 +13,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Darkmode(),
   ],
   // header: [],
-  afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'PhDoanh/quartz',
-        // from data-repo-id
-        repoId: 'R_kgDOMh8WzA',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOMh8WzM4Chibk',
-        inputPosition: "top",
-      }
-    }),
-    Component.MobileOnly(Component.ScrollToTop()),
-  ],
+  // afterBody: [],
   footer: Component.Footer({
     links: {
       "Source code": "https://github.com/PhDoanh/doanhanma",
@@ -47,19 +31,61 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.DesktopOnly(Component.TagList()),
+    Component.TagList(),
     Component.MobileOnly(Component.TableOfContents()),
+  ],
+  afterBody: [
+    Component.MobileOnly(Component.Backlinks()),
+    Component.DesktopOnly(Component.Graph({
+      localGraph: {
+        drag: true, // whether to allow panning the view around
+        zoom: true, // whether to allow zooming in and out
+        depth: 1, // how many hops of notes to display
+        scale: 2, // default view scale
+        repelForce: 0.5, // how much nodes should repel each other
+        centerForce: 0.3, // how much force to use when trying to center the nodes
+        linkDistance: 30, // how long should the links be by default?
+        fontSize: 0.6, // what size should the node labels be?
+        opacityScale: 1, // how quickly do we fade out the labels when zooming out?
+        removeTags: [], // what tags to remove from the graph
+        showTags: true, // whether to show tags in the graph
+      },
+      globalGraph: {
+        drag: true,
+        zoom: true,
+        depth: -1,
+        scale: 0.9,
+        repelForce: 0.5,
+        centerForce: 0.3,
+        linkDistance: 30,
+        fontSize: 0.6,
+        opacityScale: 1,
+        removeTags: [], // what tags to remove from the graph
+        showTags: true, // whether to show tags in the graph
+      },
+    })),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'PhDoanh/quartz',
+        // from data-repo-id
+        repoId: 'R_kgDOMh8WzA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOMh8WzM4Chibk',
+        inputPosition: "top",
+      }
+    }),
+    Component.MobileOnly(Component.ScrollToTop()),
   ],
   left: [
     Component.DesktopOnly(Component.Backlinks()),
     // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    // Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.MobileOnly(Component.Backlinks()),
-    Component.MobileOnly(Component.TagList()),
-    // Component.TagContent(),
   ],
 }
 
@@ -70,6 +96,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta()
   ],
+  afterBody: [],
   left: [
     // Component.DesktopOnly(Component.Explorer()),
   ],

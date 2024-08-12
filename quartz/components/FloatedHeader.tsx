@@ -10,7 +10,7 @@ FloatedHeader.css = `
 	background: linear-gradient(45deg,var(--secondary) 40%, var(--tertiary),var(--secondary));
 	flex-direction: row;
 	align-items: center;
-	gap: 1rem;
+	gap: 0rem;
 	padding: 0 4rem;
 	display: flex;
 	position: sticky;
@@ -27,9 +27,9 @@ FloatedHeader.css = `
 	flex: auto;
 }
 
-@media (max-width: 1510px) {
+@media (max-width: 600px) {
 	#floated-header {
-		padding: 0 1rem;
+		padding: 0 0.5rem;
 	}
 }
 `

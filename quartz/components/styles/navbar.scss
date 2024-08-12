@@ -53,7 +53,7 @@
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
 	max-width: 1120px;
-	margin-inline: 0.5rem;
+	margin-inline: 0.25rem;
 }
 
 /*=============== HEADER ===============*/
@@ -248,7 +248,7 @@
 /* For small devices */
 @media screen and (max-width: $mobileBreakpoint) {
 	.container {
-		margin-inline: 0.5rem;
+		margin-inline: 0.25rem;
 	}
 
 	.nav__link {

@@ -3,6 +3,7 @@
 @use "../components/styles/toc.scss";
 @use "../components/styles/footer.scss";
 @use "../components/styles/darkmode.scss";
+@use "../components/styles/graph.scss";
 
 // base.scss
 .page {
@@ -43,4 +44,18 @@
 	& svg {
 		fill: var(--light);
 	}
+}
+// graph.scss
+.graph {
+	&>.graph-outer {
+		height: 300px;
+
+		&>#graph-container {
+			height: 100%;
+		}
+	}
+}
+
+.graph>#global-graph-outer>#global-graph-container {
+	border: 3px dashed var(--secondary);
 }

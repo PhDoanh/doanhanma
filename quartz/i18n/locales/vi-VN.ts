@@ -70,15 +70,15 @@ export default {
     folderContent: {
       folder: "Thư Mục",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 mục trong thư mục này." : `${count} mục trong thư mục này.`,
+        count === 1 ? "1 bài viết trong thư mục này." : `${count} bài viết trong thư mục này.`,
     },
     tagContent: {
       tag: "Thẻ",
-      tagIndex: "Thẻ Mục Lục",
+      tagIndex: "Danh sách thẻ",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 mục gắn thẻ này." : `${count} mục gắn thẻ này.`,
+        count === 1 ? "1 bài viết gắn thẻ này." : `${count} bài viết gắn thẻ này.`,
       showingFirst: ({ count }) => `Hiển thị trước ${count} thẻ.`,
-      totalTags: ({ count }) => `Tìm thấy ${count} thẻ tổng cộng.`,
+      totalTags: ({ count }) => `Tìm thấy tổng cộng ${count} thẻ.`,
     },
   },
 } as const satisfies Translation

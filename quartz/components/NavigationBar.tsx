@@ -14,22 +14,34 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 			
 			<div class="nav__menu" id="nav-menu">
 				<ul class="nav__list">
-
+					{/* materials */}
 					<li class="dropdown__item">
 						<div class="nav__link">
-							Lập trình <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+							Tài liệu <i class="ri-arrow-down-s-line dropdown__arrow"></i>
 						</div>
 
 						<ul class="dropdown__menu">
 							<li class="dropdown__subitem">
 								<div class="dropdown__link">
-									<i class="ri-code-s-slash-line"></i> Ngôn ngữ lập trình <i class="ri-add-line dropdown__add"></i>
+									<i class="ri-code-s-slash-line"></i> Lập trình <i class="ri-add-line dropdown__add"></i>
 								</div>
 
 								<ul class="dropdown__submenu">
 									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/cpp" as FullSlug)} class="dropdown__sublink">
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
 											<i class="ri-terminal-line"></i> C/C++
+										</a>
+									</li>
+
+									<li>
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+											<i class="ri-terminal-line"></i> Database
+										</a>
+									</li>
+
+									<li>
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+											<i class="ri-terminal-line"></i> Web
 										</a>
 									</li>
 
@@ -38,16 +50,48 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 											<i class="ri-terminal-line"></i> Python
 										</a>
 									</li>
+								</ul>
+							</li>
 
+							<li class="dropdown__subitem">
+								<div class="dropdown__link">
+									<i class="ri-translate-2"></i> Tiếng nhật <i class="ri-add-line dropdown__add"></i>
+								</div>
+
+								<ul class="dropdown__submenu">
 									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/dsa" as FullSlug)} class="dropdown__sublink">
-											<i class="ri-terminal-line"></i> Javascript
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+											<i class="ri-global-line"></i> Từ vựng
 										</a>
 									</li>
 
 									<li>
 										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
-											<i class="ri-terminal-line"></i> HTML, CSS, JavaScript (chưa có)
+											<i class="ri-global-line"></i> Ngữ pháp
+										</a>
+									</li>
+
+									<li>
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+											<i class="ri-global-line"></i> Nghe
+										</a>
+									</li>
+
+									<li>
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+											<i class="ri-global-line"></i> Nói
+										</a>
+									</li>
+
+									<li>
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+											<i class="ri-global-line"></i> Đọc hiểu
+										</a>
+									</li>
+
+									<li>
+										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+											<i class="ri-global-line"></i> Viết
 										</a>
 									</li>
 								</ul>
@@ -55,90 +99,80 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
 							<li class="dropdown__subitem">
 								<div class="dropdown__link">
-									<i class="ri-translate-2"></i> Ngoại ngữ <i class="ri-add-line dropdown__add"></i>
+									<i class="ri-functions"></i> Đại học đại cương <i class="ri-add-line dropdown__add"></i>
 								</div>
 
 								<ul class="dropdown__submenu">
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/japanese" as FullSlug)} class="dropdown__sublink">
-											<i class="ri-global-line"></i> Tiếng Nhật
-										</a>
+									<li class="dropdown__subitem">
+										<div class="dropdown__link">
+											<i class="ri-functions"></i> Toán <i class="ri-add-line dropdown__add"></i>
+										</div>
+
+										<ul class="dropdown__submenu">
+											<li>
+												<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+													<i class="ri-pencil-ruler-2-line"></i> Giải tích
+												</a>
+											</li>
+
+											<li>
+												<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
+													<i class="ri-pencil-ruler-2-line"></i> Đại số
+												</a>
+											</li>
+										</ul>
 									</li>
 
 									<li>
 										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
-											<i class="ri-global-line"></i> Tiếng Anh (chưa có)
-										</a>
-									</li>
-								</ul>
-							</li>
-
-							<li class="dropdown__subitem">
-								<div class="dropdown__link">
-									<i class="ri-functions"></i> Toán học <i class="ri-add-line dropdown__add"></i>
-								</div>
-
-								<ul class="dropdown__submenu">
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/caculus" as FullSlug)} class="dropdown__sublink">
-											<i class="ri-pencil-ruler-2-line"></i> Giải tích
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
-											<i class="ri-pencil-ruler-2-line"></i> Toán rời rạc (chưa có)
+											<i class="ri-pencil-ruler-2-line"></i> Triết học Mác - Lênin
 										</a>
 									</li>
 								</ul>
 							</li>
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "articles/knowledge/" as SimpleSlug)} class="dropdown__link">
+								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
 									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
 							</li>
 						</ul>
 					</li>
 
+					{/* products */}
 					<li class="dropdown__item">
 						<div class="nav__link">
-							日本語 <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+							Sản phẩm <i class="ri-arrow-down-s-line dropdown__arrow"></i>
 						</div>
 
 						<ul class="dropdown__menu">
 							<li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
-									<i class="ri-file-excel-2-line"></i> Word, PowerPoint, Excel, ... (chưa có)
+									<i class="ri-file-excel-2-line"></i> Fix Your PC (game)
 								</a>
 							</li>
 
 							<li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
-									<i class="ri-windows-fill"></i> Window 10, 11 (chưa có)
+									<i class="ri-windows-fill"></i> Trang blog này
 								</a>
 							</li>
 
-							<li>
-								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
-									<i class="ri-github-fill"></i> Git, Github (chưa có)
+							{/* <li>
+								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
+									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
-							</li>
-
-							<li>
-								<a href={resolveRelative(fileData.slug!, "articles/tutorial/" as SimpleSlug)} class="dropdown__link">
-									<i class="ri-more-2-fill"></i> Đọc thêm
-								</a>
-							</li>
+							</li> */}
 						</ul>
 					</li>
 
+					{/* services */}
 					<li class="dropdown__item">
 						<div class="nav__link">
-							Khóa học <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+							Dịch vụ <i class="ri-arrow-down-s-line dropdown__arrow"></i>
 						</div>
 
-						<ul class="dropdown__menu">
+						{/* <ul class="dropdown__menu">
 							<li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
 									<i class="ri-html5-fill"></i> Làm web (chưa có)
@@ -158,37 +192,77 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 							</li>
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "articles/course/" as SimpleSlug)} class="dropdown__link">
-									<i class="ri-more-2-fill"></i> Khám phá thêm
+								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
+									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
 							</li>
-						</ul>
+						</ul> */}
 					</li>
 
+					{/* jobs */}
 					<li class="dropdown__item">
 						<div class="nav__link">
-							Dịch vụ <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+							Việc làm <i class="ri-arrow-down-s-line dropdown__arrow"></i>
 						</div>
 
-						<ul class="dropdown__menu">
+						{/* <ul class="dropdown__menu">
 							<li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
-									<i class="ri-tools-fill"></i> Sửa lỗi máy tính từ xa (chưa có)
+									<i class="ri-tools-fill"></i> Lập trình phần mềm nhúng
 								</a>
 							</li>
 
 							<li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
-									<i class="ri-quill-pen-line"></i> Thiết kế logo (chưa có)
+									<i class="ri-quill-pen-line"></i> kiểm thử viên
 								</a>
 							</li>
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "articles/service/" as SimpleSlug)} class="dropdown__link">
-									<i class="ri-more-2-fill"></i> Tìm hiểu thêm
+								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
+									<i class="ri-quill-pen-line"></i> viết blog
 								</a>
 							</li>
-						</ul>
+
+							<li>
+								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
+									<i class="ri-more-2-fill"></i> Xem thêm
+								</a>
+							</li>
+						</ul> */}
+					</li>
+
+					{/* courses */}
+					<li class="dropdown__item">
+						<div class="nav__link">
+							Khóa học <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+						</div>
+
+						{/* <ul class="dropdown__menu">
+							<li>
+								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
+									<i class="ri-tools-fill"></i> Lập trình phần mềm nhúng
+								</a>
+							</li>
+
+							<li>
+								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
+									<i class="ri-quill-pen-line"></i> kiểm thử viên
+								</a>
+							</li>
+
+							<li>
+								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
+									<i class="ri-quill-pen-line"></i> viết blog
+								</a>
+							</li>
+
+							<li>
+								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
+									<i class="ri-more-2-fill"></i> Xem thêm
+								</a>
+							</li>
+						</ul> */}
 					</li>
 				</ul>
 			</div>

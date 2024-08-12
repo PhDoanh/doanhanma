@@ -21,6 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import NavigationBar from "./NavigationBar"
+import ScrollToTop from "./ScrollToTop"
 
 export {
   ArticleTitle,
@@ -46,4 +47,5 @@ export {
   Breadcrumbs,
   Comments,
   NavigationBar,
+  ScrollToTop,
 }

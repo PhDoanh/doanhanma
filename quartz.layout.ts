@@ -28,6 +28,7 @@ export const sharedPageComponents: SharedLayout = {
         inputPosition: "top",
       }
     }),
+    Component.MobileOnly(Component.ScrollToTop()),
   ],
   footer: Component.Footer({
     links: {

@@ -47,7 +47,7 @@ export default {
       linkToOriginal: "Liên Kết Gốc",
     },
     search: {
-      title: "Ctrl+K để tìm kiếm",
+      title: "⌘/Ctrl + K để tìm kiếm",
       searchBarPlaceholder: "#tag - tìm theo thẻ",
     },
     tableOfContents: {

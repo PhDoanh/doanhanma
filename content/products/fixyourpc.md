@@ -8,16 +8,6 @@ tags:
   - sdl2
   - project
   - typing-skill
-  - tag1
-  - tag32
-  - tag64
-  - tag128
-  - tag526
-  - tag1024
-  - helloworld
-  - supermain
-  - gamedev
-  - cpp
 ---
 # Giới thiệu
 **Fix Your PC** là tựa game **một mạng** hay Roguelike Game lấy cảm hứng từ [ZType](https://zty.pe/?text=271e57005672c392), bạn sẽ phải tiêu diệt địch bằng cách gõ **nhanh và chính xác** nhất những từ, câu thậm chí là đoạn văn xuất hiện trên màn chơi. Cố gắng sống sót đến cuối và phá đảo game hoặc chết và không bao giờ tiếp tục lại được nữa! Xem video demo tại [đây](https://youtu.be/q5CiqMmyghU?si=B3q46iarJAa-8bw1)
@@ -142,11 +132,3 @@ Nhấn giữ phím **"Alt"** kết hợp **W, A, S, D** để di chuyển, nhả
 
 > [!quote] Lời trích dẫn
 > *Nếu thấy hay thì đừng quên thả tương tác 💛 và bình luận ý kiến 🗯️ để giúp mình có thêm động lực! Hoặc "Buy me a coffee" để mình và mọi người biết bạn là người ủng hộ số 1 nhé 🎉 - Phạm Gia Doanh*
-
-# More
-
-# Powerful
-
-# asjkfnsdan
-
-# jefnsdnfkj

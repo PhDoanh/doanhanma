@@ -68,10 +68,14 @@ Cách dùng: hỏi để xác định một đối tượng nào đó trong nhó
 |   1   | ミラーさんの　かさは　**どれ**ですか。  <br>…あの　あおい　かさです。                               | Cái ô của anh Miller là **cái nào**?  <br>…Là cái ô màu xanh da trời. |
 |   2   | サントスさんは　**どの　ひと**ですか。  <br>…あの　せが　たかくて、  <br>かみが　くろい　ひとです。 | Anh Santos là **người nào**?  <br>…Là người cao, tóc đen.             |
 
-> [!quote]
-> *Đừng quên thả tương tác 👍 kèm ý kiến, bình luận của bạn ✍️ để giúp mình cải thiện blog!* 
+> [!quote] Này bạn đọc ...
+> *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 
 > > [!tip]- Và có thể ủng hộ một ít động lực đó ngay bây giờ bằng các cách sau
-> > - Qua Ko-fi: <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me', '#29abe0', 'M4M111S8CI');kofiwidget2.draw();</script>
+> > - Qua nền tảng Ko-fi:
+> > 
+> >   <a href='https://ko-fi.com/M4M111S8CI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 > > - Qua ngân hàng Việt:
+> >   
 > >   ![[91405bac428be6d5bf9a.jpg|250]]
-> > > Cảm ơn sự hào phóng của bạn rất nhiều 🥰
+> > 
+> > *Bạn có thể chỉnh cho phù hợp túi tiền, cảm ơn sự hào phóng của bạn rất nhiều 🥰*

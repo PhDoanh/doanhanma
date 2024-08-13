@@ -56,10 +56,14 @@ tags:
 |   1   | この　スプーン\*\*(は)\*\*、すてきですね。                 | Cái thìa này đẹp nhỉ!                               |
 |   2   | コーヒー\*\*(を)\*\*、もう　いっぱい　  <br>いかがですか。 | Anh/Chị dùng thêm  <br>một cốc cà phê nữa nhé! (b8) |
 
-> [!quote]
-> *Đừng quên thả tương tác 👍 kèm ý kiến, bình luận của bạn ✍️ để giúp mình cải thiện blog!* 
+> [!quote] Này bạn đọc ...
+> *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 
 > > [!tip]- Và có thể ủng hộ một ít động lực đó ngay bây giờ bằng các cách sau
-> > - Qua Ko-fi: <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me', '#29abe0', 'M4M111S8CI');kofiwidget2.draw();</script>
+> > - Qua nền tảng Ko-fi:
+> > 
+> >   <a href='https://ko-fi.com/M4M111S8CI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 > > - Qua ngân hàng Việt:
+> >   
 > >   ![[91405bac428be6d5bf9a.jpg|250]]
-> > > Cảm ơn sự hào phóng của bạn rất nhiều 🥰
+> > 
+> > *Bạn có thể chỉnh cho phù hợp túi tiền, cảm ơn sự hào phóng của bạn rất nhiều 🥰*

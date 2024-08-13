@@ -3,6 +3,7 @@ status: Done
 title: Tích phân đường - mặt
 draft: false
 tags:
+  - university
   - math
   - caculus
   - integral

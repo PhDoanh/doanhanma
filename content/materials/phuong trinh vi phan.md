@@ -3,6 +3,7 @@ status: Done
 title: Phương trình vi phân
 draft: false
 tags:
+  - university
   - math
   - caculus
   - equation

@@ -1,7 +1,6 @@
 ---
 title: Tiếng Nhật
 ---
-
 # Lời nói đầu
 
 # Học bảng chữ Kana

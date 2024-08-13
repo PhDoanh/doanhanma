@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: "G-59D57MVJSQ",
     },
     locale: "vi-VN",
-    baseUrl: "phdoanh.github.io/doanhanma",
+    baseUrl: "phdoanh.github.io/doanhanma/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

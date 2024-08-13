@@ -12,4 +12,4 @@ title: Tiếng Nhật
 
 # Áp dụng phương pháp Immersion
 
-# Khám phá thêm các bài viết này
+# Các bài viết gần đây

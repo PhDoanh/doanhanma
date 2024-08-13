@@ -2,7 +2,7 @@
 title: Kiến thức đại học
 ---
 
-Các bài viết dưới đây bao gồm các chủ đề sau:
+Các chủ đề bài viết:
 - [[tags/caculus | Giải tích]]
 - [[tags/philosophy | Triết học Mác - Lênin]]
 

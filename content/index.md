@@ -10,7 +10,9 @@ enableToc: false
 # Các câu hỏi thường gặp
 
 > [!question]- Tạo trang blog như bạn có khó không?
-> Nếu bạn biết viết tài liệu [Markdown](https://youtu.be/oza4AwGhlTA?si=lePGPaaPsiqWp_uG) và dùng được một số công cụ nhà phát triển thì câu trả lời là **KHÔNG**... Tìm hiểu thêm tại đây!
+> Dĩ nhiên là có nên đừng [[thử]] =))
 
 > [!question]- Mình làm cộng tác viên blog được không?  
 > Tiếc là không vì đây là blog cá nhân của riêng mình, nhưng bạn vẫn có thể **nhận xét** bài viết, **đề xuất** thay đổi nội dung và **đặt câu hỏi**. Mình sẽ công nhận sự đóng góp tích cực từ bạn và mọi người!
+
+%% contact form here %%

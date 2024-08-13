@@ -9,4 +9,6 @@ TODOs
 - [x] localize vi-VN
 - [x] Add recent notes for desktop only
 - [x] Add markdowns for new tag in navbar
-- [ ] Add "buy me a coffee"
+- [x] Add "buy me a coffee"
+- [ ] Add contact form
+- [ ] Add translate button for vietnamese and english 

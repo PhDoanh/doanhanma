@@ -2,10 +2,13 @@
 status: Backlog
 title: <% tp.file.title %>
 draft: true
-tags: 
+tags:
+  - coding
+  - japanese
+  - university
 cssclasses:
 ---
-%% Bắt đầu tại đây %%
+%% Chọn 1 trong 3 thẻ trên và thêm các thẻ liên quan khác nếu cần %%
 
 
 > [!quote] Lời trích dẫn

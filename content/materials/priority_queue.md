@@ -4,6 +4,7 @@ title: Hàng đợi ưu tiên trong C++
 draft: false
 tags:
   - cpp
+  - cpp-language
   - dsa
   - stl
   - competitive

@@ -4,6 +4,7 @@ title: Tập hợp trong C++
 draft: false
 tags:
   - cpp
+  - cpp-language
   - dsa
   - stl
   - competitive

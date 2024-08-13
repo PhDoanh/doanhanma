@@ -21,100 +21,22 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 						</div>
 
 						<ul class="dropdown__menu">
-							<li class="dropdown__subitem">
-								<div class="dropdown__link">
-									<i class="ri-code-s-slash-line"></i> Lập trình <i class="ri-add-line dropdown__add"></i>
-								</div>
-
-								<ul class="dropdown__submenu">
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/cpp" as FullSlug)} class="dropdown__sublink">
-											C/C++
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/database" as FullSlug)} class="dropdown__sublink">
-											Database
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/web" as FullSlug)} class="dropdown__sublink">
-											Web
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/python" as FullSlug)} class="dropdown__sublink">
-											Python
-										</a>
-									</li>
-								</ul>
+							<li>
+								<a href={resolveRelative(fileData.slug!, "tags/coding" as SimpleSlug)} class="dropdown__link">
+									<i class="ri-code-s-slash-fill"></i> Lập trình
+								</a>
 							</li>
 
-							<li class="dropdown__subitem">
-								<div class="dropdown__link">
-									<i class="ri-translate-2"></i> Tiếng nhật <i class="ri-add-line dropdown__add"></i>
-								</div>
-
-								<ul class="dropdown__submenu">
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/vocabulary" as FullSlug)} class="dropdown__sublink">
-											Từ vựng
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/grammar" as FullSlug)} class="dropdown__sublink">
-											Ngữ pháp
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/listening" as FullSlug)} class="dropdown__sublink">
-											Nghe
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/speaking" as FullSlug)} class="dropdown__sublink">
-											Nói
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/reading" as FullSlug)} class="dropdown__sublink">
-											Đọc hiểu
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/writing" as FullSlug)} class="dropdown__sublink">
-											Viết
-										</a>
-									</li>
-								</ul>
+							<li>
+								<a href={resolveRelative(fileData.slug!, "tags/japanese" as SimpleSlug)} class="dropdown__link">
+									<i class="ri-translate"></i> Tiếng Nhật
+								</a>
 							</li>
 
-							<li class="dropdown__subitem">
-								<div class="dropdown__link">
-									<i class="ri-functions"></i> Đại học đại cương <i class="ri-add-line dropdown__add"></i>
-								</div>
-
-								<ul class="dropdown__submenu">
-									<li>
-										<a href={resolveRelative(fileData.slug!, "tags/math" as FullSlug)} class="dropdown__sublink">
-											Toán
-										</a>
-									</li>
-
-									<li>
-										<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__sublink">
-											Triết học Mác - Lênin
-										</a>
-									</li>
-								</ul>
+							<li>
+								<a href={resolveRelative(fileData.slug!, "tags/university" as SimpleSlug)} class="dropdown__link">
+									<i class="ri-graduation-cap-line"></i> Đại học đại cương
+								</a>
 							</li>
 
 							<li>
@@ -139,12 +61,6 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 							</li>
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "about" as FullSlug)} class="dropdown__link">
-									<i class="ri-arrow-down-circle-line"></i> Trang blog này
-								</a>
-							</li>
-
-							<li>
 								<a href={resolveRelative(fileData.slug!, "products/" as SimpleSlug)} class="dropdown__link">
 									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
@@ -158,8 +74,8 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 							Dịch vụ <i class="ri-arrow-down-s-line dropdown__arrow"></i>
 						</div>
 
-						{/* <ul class="dropdown__menu">
-							<li>
+						<ul class="dropdown__menu">
+							{/* <li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
 									<i class="ri-html5-fill"></i> Làm web (chưa có)
 								</a>
@@ -175,14 +91,14 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
 									<i class="ri-gamepad-line"></i> Làm game (chưa có)
 								</a>
-							</li>
+							</li> */}
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
+								<a href={resolveRelative(fileData.slug!, "services/" as SimpleSlug)} class="dropdown__link">
 									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
 							</li>
-						</ul> */}
+						</ul>
 					</li>
 
 					{/* jobs */}
@@ -191,8 +107,8 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 							Việc làm <i class="ri-arrow-down-s-line dropdown__arrow"></i>
 						</div>
 
-						{/* <ul class="dropdown__menu">
-							<li>
+						<ul class="dropdown__menu">
+							{/* <li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
 									<i class="ri-tools-fill"></i> Lập trình phần mềm nhúng
 								</a>
@@ -208,14 +124,14 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
 									<i class="ri-quill-pen-line"></i> viết blog
 								</a>
-							</li>
+							</li> */}
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
+								<a href={resolveRelative(fileData.slug!, "jobs/" as SimpleSlug)} class="dropdown__link">
 									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
 							</li>
-						</ul> */}
+						</ul>
 					</li>
 
 					{/* courses */}
@@ -224,8 +140,8 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 							Khóa học <i class="ri-arrow-down-s-line dropdown__arrow"></i>
 						</div>
 
-						{/* <ul class="dropdown__menu">
-							<li>
+						<ul class="dropdown__menu">
+							{/* <li>
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
 									<i class="ri-tools-fill"></i> Lập trình phần mềm nhúng
 								</a>
@@ -241,14 +157,14 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 								<a href={resolveRelative(fileData.slug!, "#" as FullSlug)} class="dropdown__link">
 									<i class="ri-quill-pen-line"></i> viết blog
 								</a>
-							</li>
+							</li> */}
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "#" as SimpleSlug)} class="dropdown__link">
+								<a href={resolveRelative(fileData.slug!, "courses/" as SimpleSlug)} class="dropdown__link">
 									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
 							</li>
-						</ul> */}
+						</ul>
 					</li>
 				</ul>
 			</div>

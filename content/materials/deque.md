@@ -6,6 +6,7 @@ tags:
   - dsa
   - data-structure
   - cpp
+  - cpp-language
   - competitive
   - stl
   - deque

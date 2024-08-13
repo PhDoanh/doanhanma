@@ -8,4 +8,4 @@ TODOs
 - [x] sticky header
 - [x] localize vi-VN
 - [x] Add recent notes for desktop only
-- [ ] Add markdowns for new tag in navbar 
+- [x] Add markdowns for new tag in navbar

@@ -95,13 +95,12 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta()
+    Component.ContentMeta(),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   afterBody: [],
   left: [
     // Component.DesktopOnly(Component.Explorer()),
-  ],
-  right: [
     Component.DesktopOnly(Component.RecentNotes(
       {
         showTags: false,
@@ -109,5 +108,8 @@ export const defaultListPageLayout: PageLayout = {
         linkToMore: "tags/" as SimpleSlug, // todo: use rss to instead
       }
     )),
+  ],
+  right: [
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }

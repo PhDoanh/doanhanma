@@ -9,3 +9,4 @@ TODOs
 - [x] localize vi-VN
 - [x] Add recent notes for desktop only
 - [x] Add markdowns for new tag in navbar
+- [ ] Add "buy me a coffee"

@@ -12,7 +12,7 @@ cssclasses:
   - imgAdj
 ---
 %% Bắt đầu tại đây %%
-![[linux on win (7).png|banner]]
+![[linux on win (7).png|banner sban]]
 
 Đôi khi bạn có thể sẽ cần tới 2 hệ điều hành - Windows và Linux, để làm việc, học tập hay thậm chí là thử nghiệm.
 

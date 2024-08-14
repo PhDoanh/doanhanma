@@ -1,0 +1,240 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "templates/articles.md"
+      ],
+      "excludedNotes": [
+        "materials/index.md"
+      ],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "materials",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "draft",
+              "tags",
+              "title",
+              "cssclasses"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9acec678-cd30-42ba-a012-3880709aa905",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "2fe2b58a-f1e1-4cc8-b7e8-6d30af43f120",
+      "name": "Materials"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "templates/articles.md"
+      ],
+      "excludedNotes": [
+        "products/index.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "products",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "status",
+              "draft",
+              "path",
+              "tags",
+              "title"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b01a0c1-e1e4-49cf-ad4c-e66da4311618",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "d16bfa08-a686-4fcc-9a12-69b7b644b8da",
+      "name": "Products"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "templates/articles.md"
+      ],
+      "excludedNotes": [
+        "services/index.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "services",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "53c3d04a-1e07-43da-993c-5b7eb9ab83fa",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "a0a3a5ca-a9a1-4434-8ee9-0186856432ac",
+      "name": "Services"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "templates/articles.md"
+      ],
+      "excludedNotes": [
+        "courses/index.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "courses",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b749e82-b12e-47da-8e37-e45f6a60c95f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "76b3673b-e073-4d4a-bc1c-19d286573faf",
+      "name": "Courses"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "templates/articles.md"
+      ],
+      "excludedNotes": [
+        "jobs/index.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "jobs",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "447f3f22-7c12-40bf-9d57-75c0de4eacc2",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "68269d20-bb4b-4fb7-8c23-be9a3186a72e",
+      "name": "Jobs"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

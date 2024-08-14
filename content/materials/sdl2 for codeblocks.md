@@ -9,6 +9,7 @@ tags:
   - ide
   - codeblocks
   - cmake
+  - coding
 ---
 %% Nhúng video ở đây %%
 

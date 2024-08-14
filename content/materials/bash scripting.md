@@ -3,7 +3,7 @@ status: Backlog
 title: Viết kịch bản Bash cho người mới
 draft: true
 tags:
-  - bash
+  - coding
   - linux
   - language
   - scripting

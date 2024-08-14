@@ -10,6 +10,7 @@ tags:
   - sdl
   - sdl2
   - code-editor
+  - coding
 ---
 %% Nhúng video ở đây %%
 

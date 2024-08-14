@@ -1,5 +1,13 @@
 ---
-title: Sản phẩm 
+title: Sản phẩm
 enableToc: false
-description: Sản phẩm hoàn chỉnh từ các dự án cá nhân, cộng đồng làm ra.
+description: Các bài viết giới thiệu và đánh giá sản phẩm của người khác, trong đó có mình.
 ---
+Thể loại:
+- [[tags/my-product | Sản phẩm của tôi]]
+- [[tags/game | Game]]
+- [[tags/sports | Thể thao]]
+- [[tags/education | Giáo dục]]
+- [[tags/productivity | Năng suất công việc]]
+
+# Các bài viết gần đây

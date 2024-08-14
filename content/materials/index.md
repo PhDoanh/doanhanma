@@ -1,5 +1,13 @@
 ---
 title: Tài liệu
 enableToc: false
-description: Tổng hợp kiến thức đại học và tài liệu, hướng dẫn công nghệ.
+description: Tổng hợp kiến thức và tài liệu, hướng dẫn ở đa dạng các chủ đề.
 ---
+Các chủ đề bài viết:
+- [[coding | Lập trình]]
+- [[japanese | Tiếng Nhật]]
+- [[university | Đại học]]
+- [[tags/win-tutorials | Hướng dẫn Windows]]
+- [[tags/tips-tricks | Mẹo và thủ thuật]]
+
+# Các bài viết gần đây

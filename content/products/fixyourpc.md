@@ -3,12 +3,12 @@ status: Done
 title: "Dự án game: Fix Your PC"
 draft: false
 tags:
-  - gamedev
   - cpp
   - sdl2
   - project
   - typing-skill
   - my-product
+  - game
 ---
 # Giới thiệu
 **Fix Your PC** là tựa game **một mạng** hay Roguelike Game lấy cảm hứng từ [ZType](https://zty.pe/?text=271e57005672c392), bạn sẽ phải tiêu diệt địch bằng cách gõ **nhanh và chính xác** nhất những từ, câu thậm chí là đoạn văn xuất hiện trên màn chơi. Cố gắng sống sót đến cuối và phá đảo game hoặc chết và không bao giờ tiếp tục lại được nữa! Xem video demo tại [đây](https://youtu.be/q5CiqMmyghU?si=B3q46iarJAa-8bw1)

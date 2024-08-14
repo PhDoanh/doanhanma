@@ -1,6 +1,8 @@
 ---
 title: Welcome to 🏡
 enableToc: false
+cssclasses:
+  - imgAdj
 ---
 # Bạn đọc thân mến 🤗
 

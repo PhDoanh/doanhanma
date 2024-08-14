@@ -1,12 +1,17 @@
 ---
+draft: true
 status: Backlog
 title: <% tp.file.title %>
-draft: true
+description: 
 tags:
   - coding
   - japanese
   - university
+date: 2024-08-14
+aliases:
+  - <% tp.file.title %>
 cssclasses:
+  - imgAdj
 ---
 %% Chọn 1 trong 3 thẻ trên và thêm các thẻ liên quan khác nếu cần %%
 

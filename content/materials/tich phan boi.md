@@ -3,7 +3,7 @@ status: Done
 title: Tích phân bội
 draft: false
 tags:
-  - university
+  - school
   - math
   - caculus
   - integral

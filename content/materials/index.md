@@ -6,7 +6,7 @@ description: Tổng hợp kiến thức và tài liệu, hướng dẫn ở đa 
 Các chủ đề bài viết:
 - [[coding | Lập trình]]
 - [[japanese | Tiếng Nhật]]
-- [[university | Đại học]]
+- [[school | Đại học]]
 - [[tags/win-tutorials | Hướng dẫn Windows]]
 - [[tags/tips-tricks | Mẹo và thủ thuật]]
 

@@ -35,7 +35,7 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
 							<li>
 								<a href={resolveRelative(fileData.slug!, "tags/school" as SimpleSlug)} class="dropdown__link">
-									<i class="ri-graduation-cap-line"></i> THPT, Đại học
+									<i class="ri-graduation-cap-line"></i> THPT - Đại học
 								</a>
 							</li>
 

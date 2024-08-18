@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5630a60e17353ea6",
+            "id": "3464a678188d9b7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/blog building.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materials/blog building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materials/blog building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "materials/blog building.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7646528b01636993",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -166,9 +166,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5630a60e17353ea6",
+  "active": "3464a678188d9b7d",
   "lastOpenFiles": [
+    "tags/university.md",
     "index.md",
+    "materials/blog building.md",
     "materials/linux on win.md",
     "products/fixyourpc.md",
     "templates/articles.md",
@@ -182,10 +184,8 @@
     "courses/index.md",
     "jobs/index.md",
     "materials/index.md",
-    "materials/blog building.md",
     "tags/affilate-marketing.md",
     "tags/my-product.md",
-    "tags/university.md",
     "tags/japanese.md",
     "tags/coding.md",
     "materials/bash scripting.md",

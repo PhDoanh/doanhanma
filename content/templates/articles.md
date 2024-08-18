@@ -6,7 +6,7 @@ description:
 tags:
   - coding
   - japanese
-  - university
+  - school
 date: 2024-08-14
 aliases:
   - <% tp.file.title %>

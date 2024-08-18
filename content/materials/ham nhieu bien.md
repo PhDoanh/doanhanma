@@ -3,7 +3,7 @@ status: Done
 title: Hàm nhiều biến
 draft: false
 tags:
-  - university
+  - school
   - caculus
   - math
   - limit

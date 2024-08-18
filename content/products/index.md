@@ -1,9 +1,10 @@
 ---
 title: Sản phẩm
 enableToc: false
-description: Các bài viết giới thiệu và đánh giá sản phẩm của người khác, trong đó có mình.
 ---
-Thể loại:
+*Các bài viết giới thiệu và đánh giá sản phẩm của người khác, trong đó có mình.*
+
+# Thể loại
 - [[tags/my-product | Sản phẩm của tôi]]
 - [[tags/game | Game]]
 - [[tags/sports | Thể thao]]

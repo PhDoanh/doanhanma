@@ -1,8 +1,10 @@
 ---
 title: Lập trình
+description: không có mô tả
+enableToc: false
 ---
 
-Các chủ đề bài viết:
+# Các chủ đề bài viết
 - [[tags/cpp-language | Ngôn ngữ lập trình C, C++]]
 - [[tags/database | Cơ sở dữ liệu]]
 - [[tags/web | Thiết kế và lập trình website]]

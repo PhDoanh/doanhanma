@@ -1,5 +1,6 @@
 ---
 title: Tiếng Nhật
+description: Lộ trình và các bài viết liên quan khi học tiếng Nhật.
 ---
 # Lời nói đầu
 

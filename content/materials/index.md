@@ -1,8 +1,8 @@
 ---
 title: Tài liệu
 enableToc: false
+description: Tổng hợp kiến thức và tài liệu, hướng dẫn ở đa dạng các chủ đề. 
 ---
-*Tổng hợp kiến thức và tài liệu, hướng dẫn ở đa dạng các chủ đề.*
 
 # Các chủ đề bài viết
 - [[coding | Lập trình]]

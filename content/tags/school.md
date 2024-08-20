@@ -1,7 +1,7 @@
 ---
 title: THPT - Đại học
+description: Kho tàng kiến thức mình biên soạn và sưu tầm khi còn là học sinh, sinh viên. 
 ---
-*Kho tàng kiến thức mình biên soạn và sưu tầm khi còn là học sinh, sinh viên.*
 
 > [!info]- Lưu ý trước khi tiếp tục
 > - Các tài liệu sưu tầm đều dựa trên ngành học của mình nên chỉ mang tính chất **tham khảo** với người ngoài ngành.

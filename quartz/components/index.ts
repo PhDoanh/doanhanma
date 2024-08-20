@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import NavigationBar from "./NavigationBar"
 import ScrollToTop from "./ScrollToTop"
+import Tools from "./Tools"
 
 export {
   ArticleTitle,
@@ -48,4 +49,5 @@ export {
   Comments,
   NavigationBar,
   ScrollToTop,
+  Tools,
 }

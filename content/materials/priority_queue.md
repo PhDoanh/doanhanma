@@ -1,6 +1,8 @@
 ---
 status: Done
 title: Hàng đợi ưu tiên trong C++
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: false
 tags:
   - cpp

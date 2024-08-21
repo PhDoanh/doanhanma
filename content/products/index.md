@@ -1,7 +1,9 @@
 ---
 title: Sản phẩm
-enableToc: false
 description: Các bài viết giới thiệu và đánh giá sản phẩm của người khác, trong đó có mình. 
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
+enableToc: false
 ---
 
 # Thể loại

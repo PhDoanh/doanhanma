@@ -1,5 +1,7 @@
 ---
 title: Cách cài SDL2 cho CodeBlocks
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 status: Done
 draft: false
 tags:

@@ -1,7 +1,9 @@
 ---
+draft: false
 status: Done
 title: "Dự án game: Fix Your PC"
-draft: false
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 tags:
   - cpp
   - sdl2

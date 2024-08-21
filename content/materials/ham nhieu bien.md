@@ -1,6 +1,8 @@
 ---
 status: Done
 title: Hàm nhiều biến
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: false
 tags:
   - school

@@ -1,6 +1,8 @@
 ---
 status: Done
 title: Vector trong C++
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: false
 tags:
   - dsa

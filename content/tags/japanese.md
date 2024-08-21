@@ -1,6 +1,8 @@
 ---
 title: Tiếng Nhật
 description: Lộ trình và các bài viết liên quan khi học tiếng Nhật.
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 ---
 
 # Lời nói đầu

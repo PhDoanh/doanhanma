@@ -3,11 +3,12 @@ draft: true
 status: Backlog
 title: <% tp.file.title %>
 description: 
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 tags:
   - coding
   - japanese
   - school
-date: 2024-08-14
 aliases:
   - <% tp.file.title %>
 cssclasses:

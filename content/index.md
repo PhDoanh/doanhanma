@@ -1,5 +1,7 @@
 ---
 title: Welcome to 🏡
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 enableToc: false
 cssclasses:
   - imgAdj

@@ -1,6 +1,8 @@
 ---
 status: Backlog
 title: Cách mình xây dựng blog từ A đến Á
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: true
 tags:
   - coding

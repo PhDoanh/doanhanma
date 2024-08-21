@@ -1,6 +1,8 @@
 ---
 status: Done
 title: Sử dụng Linux trên Windows 10/11
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: false
 tags:
   - linux

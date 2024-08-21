@@ -1,6 +1,8 @@
 ---
 status: Done
 title: Phương trình vi phân
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: false
 tags:
   - school

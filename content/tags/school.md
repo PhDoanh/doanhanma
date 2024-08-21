@@ -1,6 +1,8 @@
 ---
 title: THPT - Đại học
 description: Kho tàng kiến thức mình biên soạn và sưu tầm khi còn là học sinh, sinh viên. 
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 ---
 
 > [!info]- Lưu ý trước khi tiếp tục
@@ -11,30 +13,30 @@ description: Kho tàng kiến thức mình biên soạn và sưu tầm khi còn 
 # Danh mục
 
 ## Toán học
-- [Toán 10+11+12](https://drive.google.com/drive/folders/1-qYYv-LNpEqtF8BAvRFYpUHCVd1TkFnW?usp=sharing)
-- [Giải tích 1](https://drive.google.com/drive/folders/1jYSeXKwBdG_kN-uKDMtaw8HjOTXij8T_?usp=sharing)
-- [Giải tích 2](https://drive.google.com/drive/folders/1jdeJeeMBYHd4QWXJc-IueZuoVrH9oGdP?usp=sharing)
+- <a href="https://drive.google.com/drive/folders/1-qYYv-LNpEqtF8BAvRFYpUHCVd1TkFnW?usp=sharing" target="_blank">Toán 10+11+12</a>
+- <a href="https://drive.google.com/drive/folders/1jYSeXKwBdG_kN-uKDMtaw8HjOTXij8T_?usp=sharing" target="_blank">Giải tích 1</a>
+- <a href="https://drive.google.com/drive/folders/1jdeJeeMBYHd4QWXJc-IueZuoVrH9oGdP?usp=sharing" target="_blank">Giải tích 2</a>
 
 ## Vật lý
-- [Lý 10+11+12](https://drive.google.com/drive/folders/1UHnTsV-s52TuSr5_ZhKSogYBwEcfhfFH?usp=sharing)
-- [Vật lý đại cương 1](https://drive.google.com/drive/folders/1t335FufspUvykw9GwpiRaOudYoosM4Jy?usp=sharing)
-- [Vật lý đại cương 2](https://drive.google.com/drive/folders/1t3HvlHNsb6p-zrME6re_YzmlVNZQQrOg?usp=sharing)
+- <a href="https://drive.google.com/drive/folders/1UHnTsV-s52TuSr5_ZhKSogYBwEcfhfFH?usp=sharing" target="_blank">Lý 10+11+12</a>
+- <a href="https://drive.google.com/drive/folders/1t335FufspUvykw9GwpiRaOudYoosM4Jy?usp=sharing" target="_blank">Vật lý đại cương 1</a>
+- <a href="https://drive.google.com/drive/folders/1t3HvlHNsb6p-zrME6re_YzmlVNZQQrOg?usp=sharing" target="_blank">Vật lý đại cương 2</a>
 
 ## Ngoại ngữ
-- [Tiếng Anh 10+11+12](https://drive.google.com/drive/folders/14GbftHNfF400e6MC8WNPmZpt5bv69Jcs?usp=sharing)
-- [Tiếng Nhật 1A+1B](https://drive.google.com/drive/folders/11S6oC67DxUMxqUer43dn543IPgPzxDaB?usp=sharing)
+- <a href="https://drive.google.com/drive/folders/14GbftHNfF400e6MC8WNPmZpt5bv69Jcs?usp=sharing" target="_blank">Tiếng Anh 10+11+12</a>
+- <a href="https://drive.google.com/drive/folders/11S6oC67DxUMxqUer43dn543IPgPzxDaB?usp=sharing" target="_blank">Tiếng Nhật 1A+1B</a>
 
 ## Công nghệ thông tin
-- [Tin học cơ sở](https://drive.google.com/drive/folders/11363rgCiUozDZxqQPTU9__QkPgtvE6CT?usp=sharing)
-- [Nhập môn lập trình](https://drive.google.com/drive/folders/10xqjd4lVblO9jVNaA-ftEBSfCUIevPg-?usp=sharing)
-- [Lập trình nâng cao](https://drive.google.com/drive/folders/10xiI8ofENTTuoniCROFaZV8vPute0J7O?usp=sharing)
-- [Toán rời rạc](https://drive.google.com/drive/folders/1jqh1XDAy-IMVbbcYck6yolbpEzbqeTCV?usp=sharing)
+- <a href="https://drive.google.com/drive/folders/11363rgCiUozDZxqQPTU9__QkPgtvE6CT?usp=sharing" target="_blank">Tin học cơ sở</a>
+- <a href="https://drive.google.com/drive/folders/10xqjd4lVblO9jVNaA-ftEBSfCUIevPg-?usp=sharing" target="_blank">Nhập môn lập trình</a>
+- <a href="https://drive.google.com/drive/folders/10xiI8ofENTTuoniCROFaZV8vPute0J7O?usp=sharing" target="_blank">Lập trình nâng cao</a>
+- <a href="https://drive.google.com/drive/folders/1jqh1XDAy-IMVbbcYck6yolbpEzbqeTCV?usp=sharing" target="_blank">Toán rời rạc</a>
 
 ## Khoa học xã hội
-- [Tư tưởng Hồ Chí Minh](https://drive.google.com/drive/folders/1IU6sq9EwU9SuburBi6Pt1LOctGF3jLJq?usp=sharing)
-- [Triết học Mác-Lênin](https://drive.google.com/drive/folders/13DIA59CibNYqCYUQZBwFmV-uP30CSLpM?usp=sharing)
+- <a href="https://drive.google.com/drive/folders/1IU6sq9EwU9SuburBi6Pt1LOctGF3jLJq?usp=sharing" target="_blank">Tư tưởng Hồ Chí Minh</a>
+- <a href="https://drive.google.com/drive/folders/13DIA59CibNYqCYUQZBwFmV-uP30CSLpM?usp=sharing" target="_blank">Triết học Mác-Lênin</a>
 
 ## Hỗn hợp
-- [Tổng hợp ngẫu nhiên](https://drive.google.com/drive/folders/1aGjz73E8bqIkpkWLGwv7UtNtaJPgcXEZ?usp=sharing)
+- <a href="https://drive.google.com/drive/folders/1aGjz73E8bqIkpkWLGwv7UtNtaJPgcXEZ?usp=sharing" target="_blank">Tổng hợp ngẫu nhiên</a>
 
 # Các bài viết gần đây

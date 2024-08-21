@@ -1,6 +1,8 @@
 ---
 status: Backlog
 title: Viết kịch bản Bash cho người mới
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: true
 tags:
   - coding

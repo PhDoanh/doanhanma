@@ -1,6 +1,8 @@
 ---
 status: Done
 title: Nhật ngữ sơ cấp số 1
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
 draft: false
 tags:
   - japanese

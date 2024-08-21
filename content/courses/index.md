@@ -1,6 +1,8 @@
 ---
 title: Khóa học
-enableToc: false
 description: Chưa có khóa nào được cung cấp.
+author: PhDoanh
+authorlink: https://github.com/PhDoanh
+enableToc: false
 ---
 

@@ -1,8 +1,94 @@
+span.authorWLink {
+  cursor: pointer;
+  padding: 0.2rem;
+  border-radius: 0.5rem;
+  background-color: var(--lightgray);
+  transition: 0.2s ease;
+  margin-right: 0.2rem;
+  overflow: hidden;
+  color: var(--darkgray);
+
+  &>img {
+    width: 1.2rem;
+    border-radius: 25%;
+    vertical-align: text-top;
+    margin: 0 0 0 0.2rem;
+    transition: border-radius 0.2 ease;
+    // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  &>a {
+    word-wrap: normal;
+  }
+}
+
+span.authorWLink:hover {
+  background-color: color-mix(in srgb, var(--tertiary)65%, transparent);
+  transition: 0.2s ease;
+
+  &>a {
+    color: black !important;
+  }
+}
+
+span.hiddenAuthors {
+  position: relative;
+}
+
+span.hiddenAuthors::before {
+  content: "...";
+  padding: 0 0.2rem;
+  border-radius: 0.5rem;
+  // background-color: var(--lightgray);
+  color: var(--secondary);
+
+  font-size: larger;
+}
+
+span.hiddenAuthorsContainer {
+  // visibility: hidden;
+  opacity: 0;
+  z-index: 1;
+  position: absolute;
+  width: max-content;
+  left: 50%;
+  top: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.4rem;
+
+  border-radius: 0.5rem;
+  box-shadow: 6px 6px 36px color-mix(in srgb, var(--gray)1%, transparent);
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+
+  transition: 0.2s ease;
+
+  &>* {
+    justify-self: center;
+    margin: 0.3rem;
+  }
+}
+
+span.hiddenAuthors:hover .hiddenAuthorsContainer {
+  // visibility: visible;
+  // display: flex;
+  opacity: 1;
+  transition: 0.2s ease;
+}
 .content-meta {
   margin-top: 0;
   color: var(--gray);
 
   &[show-comma="true"] {
+    >span:first-child {
+        &::after {
+          content: "" !important;
+        }
+      }
     > span:not(:last-child) {
       margin-right: 8px;
 

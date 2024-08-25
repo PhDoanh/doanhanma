@@ -23,6 +23,7 @@ import Comments from "./Comments"
 import NavigationBar from "./NavigationBar"
 import ScrollToTop from "./ScrollToTop"
 import Tools from "./Tools"
+import Translator from "./Translator"
 
 export {
   ArticleTitle,
@@ -50,4 +51,5 @@ export {
   NavigationBar,
   ScrollToTop,
   Tools,
+  Translator,
 }

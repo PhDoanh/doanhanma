@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.NavigationBar(),
     Component.Search(),
     Component.Darkmode(),
+    // Component.Translator(),
   ],
   // header: [],
   // afterBody: [],

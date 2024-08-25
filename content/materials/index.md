@@ -10,7 +10,7 @@ enableToc: false
 - [[coding | Lập trình]]
 - [[japanese | Tiếng Nhật]]
 - [[school | THPT - Đại học]]
-- [[tags/win-tutorials | Hướng dẫn Windows]]
+- [[tags/tutorials | Hướng dẫn Windows + Android]]
 - [[tags/tips-tricks | Mẹo và thủ thuật]]
 
 # Các bài viết gần đây

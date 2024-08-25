@@ -1,17 +1,15 @@
 ---
 draft: true
 status: Backlog
-title: <% tp.file.title %>
+title: Các thuật ngữ trong mảng testing
 description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
-  - coding
-  - japanese
-  - school
   - tutorials
+  - testing
 aliases:
-  - <% tp.file.title %>
+  - testing terms
 cssclasses:
   - imgAdj
 ---

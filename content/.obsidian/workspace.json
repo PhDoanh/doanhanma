@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "80605972f13fa165",
+        "id": "7f47508637e24a85",
         "type": "tabs",
         "children": [
           {
-            "id": "3464a678188d9b7d",
+            "id": "51e44f697a4c0e92",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "jobs/web debugging proxy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"materials/\" ",
+                "query": "tag:tutorial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "jobs/web debugging proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "jobs/web debugging proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "jobs/web debugging proxy.md"
+              }
             }
           },
           {
@@ -146,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,14 +174,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3464a678188d9b7d",
+  "active": "51e44f697a4c0e92",
   "lastOpenFiles": [
-    "tags/university.md",
+    "jobs/browser logs.md",
+    "jobs/screencast.md",
+    "jobs/screenshots.md",
+    "jobs/web debugging proxy.md",
+    "jobs/mobile device logs.md",
+    "images/low-high screenshot.png",
+    "jobs/testing terms.md",
+    "Handbrake.md",
     "index.md",
+    "templates/articles.md",
+    "materials/index.md",
+    "tags/school.md",
+    "tags/tutorial.md",
+    "images/Pasted image 20240822165656.png",
+    "jobs/index.md",
+    "tags/my-product.md",
+    "tags/japanese.md",
+    "tags/coding.md",
+    "tags/university.md",
     "materials/blog building.md",
     "materials/linux on win.md",
     "products/fixyourpc.md",
-    "templates/articles.md",
     "draft.md",
     "templates/foldersPage.md",
     "2024-08-14.md",
@@ -182,21 +206,6 @@
     "services/index.md",
     "products/index.md",
     "courses/index.md",
-    "jobs/index.md",
-    "materials/index.md",
-    "tags/affilate-marketing.md",
-    "tags/my-product.md",
-    "tags/school.md",
-    "tags/japanese.md",
-    "tags/coding.md",
-    "materials/bash scripting.md",
-    "materials/cpp.md",
-    "materials/deque.md",
-    "materials/ham nhieu bien.md",
-    "materials/vector.md",
-    "materials/stack.md",
-    "materials/tich phan boi.md",
-    "materials/tich phan duong mat.md",
     "images/1.png",
     "images/91405bac428be6d5bf9a.jpg"
   ]

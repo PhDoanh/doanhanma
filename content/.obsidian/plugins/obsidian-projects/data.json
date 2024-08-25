@@ -205,7 +205,25 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "draft",
+              "title",
+              "description",
+              "tags",
+              "aliases",
+              "author",
+              "authorlink",
+              "cssclasses"
+            ]
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []

@@ -33,39 +33,34 @@ span.authorWLink:hover {
 
 span.hiddenAuthors {
   position: relative;
+  cursor: pointer;
 }
 
 span.hiddenAuthors::before {
-  content: "...";
+  content: "những người khác";
   padding: 0 0.2rem;
-  border-radius: 0.5rem;
   // background-color: var(--lightgray);
   color: var(--secondary);
-
-  font-size: larger;
 }
 
 span.hiddenAuthorsContainer {
   // visibility: hidden;
   opacity: 0;
-  z-index: 1;
   position: absolute;
   width: max-content;
   left: 50%;
   top: 100%;
-
+  pointer-events: none;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 0.4rem;
-
   border-radius: 0.5rem;
-  box-shadow: 6px 6px 36px color-mix(in srgb, var(--gray)1%, transparent);
-  border: 1px solid var(--lightgray);
   background-color: var(--light);
-
   transition: 0.2s ease;
+  border: none;
+    box-shadow: 0 0 10px #00000080;
 
   &>* {
     justify-self: center;
@@ -73,11 +68,13 @@ span.hiddenAuthorsContainer {
   }
 }
 
-span.hiddenAuthors:hover .hiddenAuthorsContainer {
+span.hiddenAuthors:hover .hiddenAuthorsContainer,
+span.hiddenAuthorsContainer:hover {
   // visibility: visible;
   // display: flex;
   opacity: 1;
   transition: 0.2s ease;
+  pointer-events: auto;
 }
 .content-meta {
   margin-top: 0;

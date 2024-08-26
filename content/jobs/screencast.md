@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 status: Backlog
 title: Video ghi màn hình
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

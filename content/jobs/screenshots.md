@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 status: Backlog
 title: Ảnh chụp màn hình
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -39,7 +39,7 @@ Trong bài viết này, bạn sẽ được học cách chụp và chỉnh sửa
 
 # Windows
 ## Cách 1: Dùng công cụ tích hợp sẵn
-%% gif/video về quy trình chụp màn hình theo cách 1 %%
+![[windows screenshots 1.gif|center]]
 
 Bạn có thể chụp toàn màn hình hiện tại bằng cách nhấn tổ hợp phím **Windows+PrtSc**. Sau đó chỉnh sửa ảnh chụp bằng phần mềm **Paint** hoặc **Snipping Tool**
 

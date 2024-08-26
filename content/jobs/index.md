@@ -7,7 +7,7 @@ enableToc: false
 ---
 
 # Đáng chú ý
-- [[tags/online-testing | Kiểm thử online]]
+- [[tags/testing | Kiểm thử online]]
 - [[tags/affiliate-marketing | Tiếp thị liên kết]]
 - [[tags/blogger | Viết blog]]
 

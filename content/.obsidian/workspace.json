@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "7f47508637e24a85",
+        "id": "2c7d82dcba1199de",
         "type": "tabs",
         "children": [
           {
-            "id": "51e44f697a4c0e92",
+            "id": "3db704a4a1ede5fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/web debugging proxy.md",
+                "file": "draft.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec6b3271663d7b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jobs/screenshots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8270840200117afc",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d363a24385edbbe5",
@@ -85,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jobs/web debugging proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jobs/web debugging proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "jobs/web debugging proxy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,38 +192,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "51e44f697a4c0e92",
+  "active": "8270840200117afc",
   "lastOpenFiles": [
+    "jobs/screenshots.md",
+    "images/low-high screenshot.png",
+    "images/windows screenshots 1.gif",
+    "draft.md",
+    "images/lxrRebaI0h.mp4",
+    "tags/testing.md",
+    "jobs/index.md",
+    "templates/foldersPage.md",
+    "jobs/web debugging proxy.md",
+    "tags/school.md",
+    "tags/japanese.md",
+    "tags/coding.md",
     "jobs/browser logs.md",
     "jobs/screencast.md",
-    "jobs/screenshots.md",
-    "jobs/web debugging proxy.md",
     "jobs/mobile device logs.md",
-    "images/low-high screenshot.png",
     "jobs/testing terms.md",
     "Handbrake.md",
     "index.md",
     "templates/articles.md",
     "materials/index.md",
-    "tags/school.md",
     "tags/tutorial.md",
     "images/Pasted image 20240822165656.png",
-    "jobs/index.md",
     "tags/my-product.md",
-    "tags/japanese.md",
-    "tags/coding.md",
     "tags/university.md",
     "materials/blog building.md",
     "materials/linux on win.md",
     "products/fixyourpc.md",
-    "draft.md",
-    "templates/foldersPage.md",
     "2024-08-14.md",
     "images/og-image.png",
     "images/B612_20230706_222553_706.jpg",
     "services/index.md",
-    "products/index.md",
-    "courses/index.md",
     "images/1.png",
     "images/91405bac428be6d5bf9a.jpg"
   ]

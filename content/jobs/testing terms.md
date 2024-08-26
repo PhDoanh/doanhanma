@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 status: Backlog
 title: Các thuật ngữ trong mảng testing
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

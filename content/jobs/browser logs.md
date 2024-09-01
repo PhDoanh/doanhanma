@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 status: Backlog
 title: Nhật ký trình duyệt
 description:
@@ -35,7 +35,7 @@ Có nhiều loại nhật ký khác nhau, bài viết này sẽ hướng dẫn b
 Các trình duyệt đều hoạt động giống nhau trên mọi nền tảng máy tính, nên bạn có thể làm theo các bước tương tự trên Windows, MacOS hay Linux.
 
 ## Google Chrome hoặc trình duyệt dùng Chromium
-%% gif/video về cách lấy console log %%
+![[UC94PRbwlB.gif|center]]
 
 1. Nhấn tổ hợp phím **Ctrl+Shift+I** hoặc **F12** hoặc chọn **biểu tượng ba chấm** > **More Tools** > **Developer Tools**
 2. Chọn **Console** > **biểu tượng bánh răng** trong góc trên bên phải
@@ -105,7 +105,8 @@ Các trình duyệt đều hoạt động giống nhau trên mọi nền tảng 
 
 ## Cách thu thập nhật ký HAR
 ### Google Chrome hoặc trình duyệt dùng Chromium
-%% gif/video về cách lấy HAR log, kiểm tra status code và filter logs %%
+![[joVjoItBmT.gif|center]]
+
 
 1. Nhấn tổ hợp phím **Ctrl+Shift+I (Windows) / Option+Command+I (Mac)** hoặc chọn **biểu tượng 3 chấm > More Tools > Developer Tools**
 2. Mở tab **Network** lên (nếu không thấy, nhấp vào biểu tượng ">>"  hoặc mở rộng cửa sổ Developer Tools)
@@ -196,6 +197,11 @@ Các trình duyệt dùng Chromium và Firefox chỉ hỗ trợ gỡ lỗi từ 
 **Với người dùng Android, làm theo các bước sau trước khi thu thập**:
 %% gif/video thực hiện các bước tiên quyết %%
 
+| ![[Screenrecording_20240826_082957-output 1.gif\|200]] | ![[MOvWNbdTAX.gif]] |
+|:------------------------------------------------------:|:-------------------:|
+|                    Trên điện thoại                     |    Trên máy tính    |
+
+
 1. Bật tính năng **Công cụ nhà phát triển** trên thiết bị của bạn bằng cách chạm vào **Build Number** 7 lần. Nhấp vào [đây](https://developer.android.com/studio/debug/dev-options.html) nếu gặp vấn đề
 2. Mở **Developer Options** lên và bật tính năng **USB Debugging**
 3. Kết nối trực tiếp Android của bạn với máy tính qua cáp USB
@@ -204,14 +210,14 @@ Các trình duyệt dùng Chromium và Firefox chỉ hỗ trợ gỡ lỗi từ 
 6. Mở phần mềm **Command Prompt** (Windows) hoặc **Terminal** (MacOS hoặc Linux)
 7. Gõ lệnh `cd` kèm một dấu cách theo sau và kéo thả đường dẫn chứa thư mục đã giải nén vào phần mềm, sau đó nhấn **Enter** (ví dụ: `cd c:\users\someone\desktop\platform-tools`)
 8. Bạn sẽ thấy dấu nhắc trỏ đến thư mục **platform-tools** của mình
-9. Giờ hãy gõ `adb start server` và cho phép bất kì yêu cầu cấp phép nào trên thiết bị của bạn
+9. Giờ hãy gõ `adb start-server` và cho phép bất kì yêu cầu cấp phép nào trên thiết bị của bạn
 
 > [!error] Lỗi
 > **Nếu lệnh ở bước 9 không hoạt động**, hãy mở lại **Command Prompt** hoặc **Terminal** với quyền quản trị viên và thử lại 
 
 ## Google Chrome hoặc trình duyệt dùng Chromium
 **Đối với Android**:
-%% gif/video lấy console log của trình duyệt di động %%
+![[ZW4mK5FRa2.gif|center]]
 
 1. Trước khi bắt đầu, bạn cần **thực hiện trước** các bước từ 7 đến 10 được đề cập ở trên để đảm bảo trình duyệt nhận diện được thiết bị android của bạn
 2. Mở **Google Chrome** trên máy tính lên và điều hướng đến trang chrome://inspect#devices
@@ -301,7 +307,10 @@ Các trình duyệt dùng Chromium và Firefox chỉ hỗ trợ gỡ lỗi từ 
 > Đảm bảo file nhật ký chứa dấu thời gian và chuỗi văn bản "Navigated to" khi kiểm thử trang web
 
 # Nhật ký HAR trên Android
-%% gif/video về các quy trình dưới %%
+
+| ![[Screenrecording_20240826_082957-output 1.gif\|200]] | ![[GB1JDdHw62.gif]] |
+| :----------------------------------------------------: | :-----------------: |
+|                    Trên điện thoại                     |    Trên máy tính    |
 
 **Thiết lập thiết bị di động**:
 1. Bật **Công cụ nhà phát triển** bằng cách chạm vào **Build number** 7 lần

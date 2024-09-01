@@ -5,8 +5,7 @@ author: PhDoanh
 authorlink: https://github.com/PhDoanh
 enableToc: false
 ---
-
-# Thể loại
+%% # Thể loại
 - [[tags/my-product | Sản phẩm của tôi]]
 - [[tags/game | Game]]
 - [[tags/sports | Thể thao]]
@@ -14,3 +13,4 @@ enableToc: false
 - [[tags/productivity | Năng suất công việc]]
 
 # Các bài viết gần đây
+ %%

@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7d82dcba1199de",
+        "id": "0a16cde73a1d83d2",
         "type": "tabs",
         "children": [
           {
-            "id": "3db704a4a1ede5fb",
+            "id": "211f3d32ac39d032",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec6b3271663d7b8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jobs/screenshots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8270840200117afc",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tutorial",
+                "query": "Pasted image 20240829144939.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d363a24385edbbe5",
@@ -192,40 +166,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8270840200117afc",
+  "active": "68ed565b86c2f943",
   "lastOpenFiles": [
-    "jobs/screenshots.md",
-    "images/low-high screenshot.png",
-    "images/windows screenshots 1.gif",
+    "materials/blog building.md",
+    "index.md",
     "draft.md",
-    "images/lxrRebaI0h.mp4",
-    "tags/testing.md",
-    "jobs/index.md",
     "templates/foldersPage.md",
-    "jobs/web debugging proxy.md",
+    "templates/articles.md",
+    "tags/testing.md",
     "tags/school.md",
+    "tags/my-product.md",
     "tags/japanese.md",
     "tags/coding.md",
-    "jobs/browser logs.md",
-    "jobs/screencast.md",
-    "jobs/mobile device logs.md",
-    "jobs/testing terms.md",
-    "Handbrake.md",
-    "index.md",
-    "templates/articles.md",
-    "materials/index.md",
-    "tags/tutorial.md",
-    "images/Pasted image 20240822165656.png",
-    "tags/my-product.md",
-    "tags/university.md",
-    "materials/blog building.md",
-    "materials/linux on win.md",
-    "products/fixyourpc.md",
-    "2024-08-14.md",
-    "images/og-image.png",
-    "images/B612_20230706_222553_706.jpg",
     "services/index.md",
-    "images/1.png",
-    "images/91405bac428be6d5bf9a.jpg"
+    "products/index.md",
+    "materials/index.md",
+    "jobs/index.md",
+    "jobs/browser logs.md",
+    "courses/index.md",
+    "jobs/testing terms.md",
+    "jobs/web debugging proxy.md",
+    "jobs/screenshots.md",
+    "jobs/screencast.md",
+    "jobs/pii.md",
+    "jobs/mobile device logs.md",
+    "materials/japanese resources.md",
+    "materials/japanese setup.md",
+    "images/anki_hCnpzG1uEn.jpg",
+    "materials/japanese with immersion.md",
+    "images/Pasted image 20240831133538.png",
+    "images/Pasted image 20240831134313.png",
+    "images/Pasted image 20240831135331.png",
+    "images/Pasted image 20240831134210.png",
+    "Pasted image 20240831132722.png",
+    "Pasted image 20240831133427.png",
+    "Pasted image 20240831132757.png",
+    "images/Pasted image 20240831132314.png",
+    "materials/nihongo 1.md",
+    "Pasted image 20240829160510.png",
+    "images/lxrRebaI0h.mp4"
   ]
 }

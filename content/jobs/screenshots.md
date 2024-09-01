@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 status: Backlog
 title: Ảnh chụp màn hình
 description:
@@ -46,7 +46,7 @@ Bạn có thể chụp toàn màn hình hiện tại bằng cách nhấn tổ h�
 Mặc định, ảnh chụp màn hình sẽ được lưu vào thư mục **Screenshots** đặt bên trong **Pictures** và cũng có thể lấy nó ra từ bảng nhớ tạm với tổ hợp phím **Ctrl+V** (ngay sau khi chụp) hoặc **Windows+V**
 
 ## Cách 2: ShareX
-%% gif/video về quy trình chụp màn hình theo cách 2 %%
+![[EtEkIzoeTf.gif|center]]
 
 1. Tải xuống và cài đặt phầm mềm ShareX tại [đây](https://www.getsharex.com/)
 
@@ -66,7 +66,7 @@ Mặc định **ShareX** sẽ lưu các ảnh chụp màn hình trong thư mục
 > Đảm bảo tùy chọn **Upload image to host** đã được tắt trong phần mềm ShareX
 
 ## Cách 3: Xbox Game Bar
-%% gif/video về quy trình chụp màn hình theo cách 3 %%
+![[LXtpK6CL8D.gif|center]]
 
 Làm theo các bước sau để bật tính năng **Xbox Game Bar**:
 1. Nhấn tổ hợp phím **Windows+S** để mở thanh tìm kiếm và gõ "Xbox Game Bar"
@@ -75,6 +75,7 @@ Làm theo các bước sau để bật tính năng **Xbox Game Bar**:
 Hoặc mở **Settings > Gaming > Xbox Game Bar** và bật công tắc kích hoạt
 
 Các bước tiếp theo sẽ lưu ảnh chụp màn hình dưới dạng một file và loại trừ thanh tác vụ khỏi ảnh chụp:
+
 1. Nhấn tổ hợp phím **Windows+G** để mở không gian Xbox Game Bar
 2. Nhấp vào biểu tượng **Camera** để chụp màn hình hoặc có thể nhấn tổ hợp **Windows+Alt+PrtSc** để chụp trực tiếp mà không phải mở Xbox Game Bar
 3. Một thông báo sẽ xuất hiện. Nhấp vào nó để xem ảnh vừa chụp
@@ -115,8 +116,7 @@ Các bước sau sẽ cài đặt và sử dụng Flameshot:
 > Nếu gặp bất kì vấn đề cài đặt nào, bạn có thể xem tài liệu [này](https://flameshot.org//) để khắc phục
 
 # Android
-%% gif/video về quy trình chụp và highlight trên android %%
-
+![[Screenrecording_20240826_082957-output.gif|center|300]]
 ## Chụp màn hình
 1. Mở màn hình mà bạn muốn chụp lên
 

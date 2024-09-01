@@ -5,11 +5,11 @@ author: PhDoanh
 authorlink: https://github.com/PhDoanh
 enableToc: false
 ---
-
-# Các chủ đề bài viết
+%%  # Các chủ đề bài viết
 - [[tags/cpp-language | Ngôn ngữ lập trình C, C++]]
-- [[tags/database | Cơ sở dữ liệu]]
+ - [[tags/database | Cơ sở dữ liệu]]
 - [[tags/web | Thiết kế và lập trình website]]
-- [[tags/python-language | Ngôn ngữ lập trình Python]]
+- [[tags/python-language | Ngôn ngữ lập trình Python]]  
 
 # Các bài viết gần đây
+ %%

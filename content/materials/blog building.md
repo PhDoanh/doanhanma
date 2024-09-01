@@ -1,16 +1,15 @@
 ---
+draft: true
 status: Backlog
 title: Cách mình xây dựng blog từ A đến Á
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: true
 tags:
   - coding
   - web
   - blog
 cssclasses:
 ---
-%% Chọn 1 trong 3 thẻ trên và thêm các thẻ liên quan khác nếu cần %%
 Đã bảo khó rồi mà =))
 
 > [!quote] Này bạn đọc ...

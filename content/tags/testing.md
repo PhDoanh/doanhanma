@@ -5,10 +5,7 @@ author: PhDoanh
 authorlink: https://github.com/PhDoanh
 enableToc: false
 ---
-# Giới thiệu
-**Kiểm thử online** là quy trình kiểm tra, đánh giá phần mềm để xác định các lỗi,
-
-
+%% # Giới thiệu
 
 # Quy trình học việc và kiếm tiền
 
@@ -16,6 +13,5 @@ enableToc: false
 
 # Mục tiêu tiếp theo
 
-
-
 # Các bài viết gần đây
+ %%

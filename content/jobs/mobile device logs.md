@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 status: Backlog
 title: Nhật ký thiết bị di động
 description:
@@ -30,8 +30,7 @@ Bạn có thể thu thập nhật ký android bằng máy tính Windows, MacOS, 
 > Nếu bạn thấy một thông báo của **phần mềm quét virus** (antivirus) về **adb.exe**, thì hãy tắt phần mềm đó đi hoặc thêm **adb.exe** vào danh sách không theo dõi của phần mềm đó
 
 ## Dùng ADB để kết nối và thu thập
-%% link %%
-Tìm hiểu về **adb** tại [đây]()
+Tìm hiểu về **adb** tại [đây]([Android Debug Bridge (adb)  |  Android Studio  |  Android Developers](https://developer.android.com/tools/adb))
 
 ### Gỡ lỗi không dây (chỉ Android 11+)
 %% gif/video %%

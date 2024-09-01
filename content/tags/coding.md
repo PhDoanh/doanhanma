@@ -1,6 +1,6 @@
 ---
 title: Lập trình
-description: không có mô tả
+description: Định hướng và chiến lược trong lập trình, từ lựa chọn ngôn ngữ đến thiết kế thuật toán.
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 enableToc: false
@@ -10,6 +10,5 @@ enableToc: false
  - [[tags/database | Cơ sở dữ liệu]]
 - [[tags/web | Thiết kế và lập trình website]]
 - [[tags/python-language | Ngôn ngữ lập trình Python]]  
-
+%%
 # Các bài viết gần đây
- %%

@@ -1,6 +1,6 @@
 ---
 title: Tài liệu
-description: Tổng hợp kiến thức và tài liệu, hướng dẫn ở đa dạng các chủ đề. 
+description: Tổng hợp kiến thức, tài liệu và hướng dẫn ở đa dạng các chủ đề.
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 enableToc: false

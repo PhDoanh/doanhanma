@@ -11,8 +11,12 @@
             "id": "211f3d32ac39d032",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tags/testing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tags/testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tags/testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tags/testing.md"
+              }
             }
           },
           {
@@ -168,22 +176,23 @@
   },
   "active": "68ed565b86c2f943",
   "lastOpenFiles": [
-    "materials/blog building.md",
-    "index.md",
-    "draft.md",
-    "templates/foldersPage.md",
-    "templates/articles.md",
-    "tags/testing.md",
-    "tags/school.md",
-    "tags/my-product.md",
-    "tags/japanese.md",
-    "tags/coding.md",
+    "courses/index.md",
+    "jobs/index.md",
+    "materials/index.md",
     "services/index.md",
     "products/index.md",
-    "materials/index.md",
-    "jobs/index.md",
+    "tags/japanese.md",
+    "tags/coding.md",
+    "draft.md",
+    "tags/my-product.md",
+    "tags/school.md",
+    "tags/testing.md",
+    "index.md",
+    "templates/foldersPage.md",
+    "templates/articles.md",
+    "products/fixyourpc.md",
+    "materials/blog building.md",
     "jobs/browser logs.md",
-    "courses/index.md",
     "jobs/testing terms.md",
     "jobs/web debugging proxy.md",
     "jobs/screenshots.md",
@@ -202,7 +211,6 @@
     "Pasted image 20240831133427.png",
     "Pasted image 20240831132757.png",
     "images/Pasted image 20240831132314.png",
-    "materials/nihongo 1.md",
     "Pasted image 20240829160510.png",
     "images/lxrRebaI0h.mp4"
   ]

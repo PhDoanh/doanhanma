@@ -1,6 +1,6 @@
 ---
 title: Kiểm thử online
-description: 
+description: Khám phá cách kiếm tiền từ kiểm thử phần mềm online với các cơ hội việc làm và dự án từ xa.
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 enableToc: false

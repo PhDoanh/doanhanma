@@ -1,6 +1,6 @@
 ---
 title: Tiếng Nhật
-description: Lộ trình và các bài viết liên quan khi học tiếng Nhật.
+description: Hành trình học tiếng Nhật từ cơ bản đến nâng cao với các phương pháp hiệu quả và tài liệu hữu ích.
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 ---
@@ -86,5 +86,5 @@ Nhưng có phương pháp thôi là chưa đủ, bạn cần phải biết cách
 Động cơ chính của phần này là sử dụng một bộ thẻ Anki để lưu trữ các hoạt động khai thác của bạn, bằng cách sử dụng Yomitan trên nội dung đọc (hoặc xem với phụ đề) để ==khai thác== các từ trong các câu bạn nhìn thấy ngoài tự nhiên. Bài viết [[japanese with immersion|này]] sẽ giúp bạn làm điều đó!
 
 Đối với người có mục tiêu cao hơn, mình khuyên bạn nên chủ động luyện nghe tiếng Nhật, bổ sung các ngữ pháp nâng cao, học viết và luyện nói với người bản xứ (nếu điều kiện cho phép). Tất cả các tài nguyên hỗ trợ đều có thể tìm thấy ở [[japanese resources|đây]]
-
-# Các bài viết gần đây %%
+%%
+# Các bài viết gần đây

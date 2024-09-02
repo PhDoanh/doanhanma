@@ -2,14 +2,14 @@
 draft: true
 status: Backlog
 title: Nhật ký trình duyệt
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - tutorials
-  - testing
   - windows
   - android
+  - tester
 aliases:
   - browser logs
 cssclasses:

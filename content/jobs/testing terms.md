@@ -7,7 +7,7 @@ author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - tutorials
-  - testing
+  - tester
   - tips
   - tips-tricks
 aliases:

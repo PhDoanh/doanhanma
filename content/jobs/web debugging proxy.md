@@ -2,12 +2,12 @@
 draft: true
 status: Backlog
 title: Gỡ lỗi web qua proxy chuyên dụng
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - tutorials
-  - testing
+  - tester
   - windows
   - android
 aliases:

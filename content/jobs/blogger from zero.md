@@ -1,16 +1,19 @@
 ---
 draft: true
 status: Backlog
-title: Cách mình xây dựng blog từ A đến Á
+title: Cách trở thành một blogger A đến Á
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - coding
   - web
-  - blog
+  - blogger
+  - tutorials
+aliases:
+  - blogger from zero
 cssclasses:
 ---
-Đã bảo khó rồi mà =))
+
 
 > [!quote] Này bạn đọc ...
 > *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 

@@ -2,7 +2,7 @@
 draft: true
 status: Backlog
 title: Các thiết lập khi học tiếng Nhật
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -53,6 +53,9 @@ cssclasses:
 
 > [!info] Lưu ý
 > Bạn có thể xem các từ điển thú vị khác trên trang [này](https://github.com/MarvNC/yomichan-dictionaries)
+
+> [!tip]- Mẹo
+> Bạn đã có thể bắt tay vào [[japanese#Học từ vựng và ngữ pháp|học từ vựng và ngữ pháp]] ngay bây giờ! Sau đó tiếp tục các phần dưới khi đến bước áp dụng Immersion.
 
 # Thiết lập công cụ cho Visual Novel
 

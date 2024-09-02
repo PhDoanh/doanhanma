@@ -2,12 +2,12 @@
 draft: true
 status: Backlog
 title: Nhật ký thiết bị di động
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - tutorials
-  - testing
+  - tester
   - android
   - windows
 aliases:

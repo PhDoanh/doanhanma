@@ -2,11 +2,11 @@
 draft: true
 status: Backlog
 title: Video ghi màn hình
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
-  - testing
+  - tester
   - windows
   - android
   - tutorials

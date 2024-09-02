@@ -2,13 +2,13 @@
 draft: true
 status: Backlog
 title: Ảnh chụp màn hình
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - tutorials
   - windows
-  - testing
+  - tester
   - android
 aliases:
   - screenshots

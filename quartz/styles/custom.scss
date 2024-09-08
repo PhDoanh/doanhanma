@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./callouts.scss";
 @use "./variables.scss" as *;
 @use "../components/styles/toc.scss";
 @use "../components/styles/footer.scss";
@@ -14,6 +15,40 @@
 
 			@media all and (max-width: $fullPageWidth) {
 				margin-top: 0rem;
+			}
+		}
+	}
+}
+h4 {
+	font-size: 1.12rem;
+	margin-top: 1.62rem;
+	margin-bottom: 1rem;
+}
+
+// callouts.scss
+.callout {
+	&[data-callout="content"] {
+		--color: var(--darkgray);
+		--border: #00000000;
+		--bg: #00000000;
+		padding: 0;
+		margin: 0.5rem 0;
+
+		& .callout-title {
+			padding: 0;
+			margin: 0;
+			gap: 0;
+
+			& .callout-icon {
+				--icon-size: 0;
+			}
+
+			& .callout-title-inner {
+				font-weight: normal;
+			}
+
+			& .fold-callout-icon {
+				padding-left: 10px;
 			}
 		}
 	}

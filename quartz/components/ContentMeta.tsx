@@ -71,8 +71,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
-      const authors = String(fileData.frontmatter?.author).split(",")
-      const authorLinks = String(fileData.frontmatter?.authorlink).split(",")
+      const authors = fileData.frontmatter?.author?.split(",")
+      const authorLinks = fileData.frontmatter?.authorlink?.split(",")
       var authorsElements = []
 
       // Display authors if any

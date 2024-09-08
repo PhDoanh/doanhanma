@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 21
+title: 第２１課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

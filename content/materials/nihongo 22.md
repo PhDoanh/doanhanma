@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 22
+title: 第２２課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

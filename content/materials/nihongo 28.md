@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 28
+title: 第２８課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

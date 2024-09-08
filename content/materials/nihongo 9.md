@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 9
+title: 第９課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

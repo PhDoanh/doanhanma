@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 1
+title: "Nhật ngữ 1: [はじめまして](https://calendar.google.com/calendar/u/0/r/week)"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false
@@ -10,21 +10,25 @@ tags:
   - language
   - N5-JLPT
 ---
-%% Bắt đầu tại đây %%
 # N₁ は N₂ です
-**Cách dùng**: khẳng định câu văn
+#### Ý nghĩa
+Danh từ 1 ==ở/thì/là== danh từ 2  
 
-| Ví dụ | Gốc                                    | Dịch                          |
-|:-----:| -------------------------------------- | ----------------------------- |
-|   1   | わたし**は**　マイク・ミラー**です**。 | Tôi **là** Mike Miller.       |
-|   2   | わたし**は**　かいしゃいん**です**。   | Tôi **là** nhân viên công ty. |
+#### Cách dùng 
+Khẳng định
+
+#### Ví dụ
+> [!content]- 1\. わたし**は**　マイク・ミラー**です**。
+> Tôi **là** Mike Miller.
+
+> [!content]- 2\. わたし**は**　かいしゃいん**です**。
+> Tôi **là** nhân viên công ty.
 
 > [!info]- Lưu ý
 > Trợ từ **は** phát âm là **わ**
 
 # N₁ は N₂ じゃ（では）ありません
-
-**Cách dùng**: Phủ định câu văn
+**Cách dùng**: **phủ định**
 
 | Ví dụ | Gốc                                                            | Dịch                                    |
 |:-----:| -------------------------------------------------------------- | --------------------------------------- |
@@ -36,36 +40,33 @@ tags:
 > - **では**… thường dùng trong các bài phát biểu trang trọng hay văn viết
 
 # N₁ は N₂ ですか
-**Cách dùng**:
-- Hỏi đúng hay sai (vd 1,2)
-- Hỏi với từ để hỏi (vd 3)
+**Cách dùng**: hỏi **đúng/sai** (vd 1,2) hoặc với **từ để hỏi** (vd 3)
 
-| Ví dụ | Gốc                                                                                 | Dịch                                                                                      |
-|:-----:| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-|   1   | ミラーさん**は**　アメリカじん**ですか**。  <br>…**はい**、アメリカじんです。       | Anh Miller **có phải** người Mỹ **không**?  <br>…**Vâng**, anh ấy là người Mỹ.            |
+| Ví dụ | Gốc                                                 | Dịch                                                                                      |
+| :---: | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|   1   | ミラーさん**は**　アメリカじん**ですか**。  <br>…**はい**、アメリカじんです。    | Anh Miller **có phải** người Mỹ **không**?  <br>…**Vâng**, anh ấy là người Mỹ.            |
 |   2   | ミラーさん**は**　せんせい**ですか**。  <br>…**いいえ**、せんせいじゃ　ありません。 | Anh Miller **có phải** giáo viên **không**?  <br>…**Không**, anh ấy không phải giáo viên. |
-|   3   | あのかたは　**どなた**ですか。  <br>…（あのかたは）ミラーです。                     | Vị kia là **ai**?  <br>…Vị kia là anh Miller.                                             |
-
+|   3   | あのかたは　**どなた**ですか。  <br>…（あのかたは）ミラーです。               | Vị kia là **ai**?  <br>…Vị kia là anh Miller.                                             |
 
 > [!info]- Lưu ý
 > Trong câu hỏi đúng/sai, đúng thì trả lời **はい** còn sai thì trả lời **いいえ**
 
-# N₁ も
-**Cách dùng**: Trình bày nội dung tương tự, cùng quan điểm
+# N も
+**Cách dùng**: biểu thị một danh từ **cũng giống** với nội dung, quan điểm trước đó
 
 | Ví dụ | Gốc                                        | Dịch                                                                           |
 | :---: | ------------------------------------------ | ------------------------------------------------------------------------------ |
 |   1   | ミラーさんは　かいしゃいんです。  <br>グプタさん**も**　かいしゃいんです。 | Anh Miller là nhân viên công ty.  <br>Anh Gupta **cũng là** nhân viên công ty. |
 
 # N₁ の N₂
-**Cách dùng**: Dùng danh từ 1 bổ nghĩa cho danh từ 2
+**Cách dùng**: danh từ 1 **bổ nghĩa** (bổ sung thông tin) cho danh từ 2
 
 | Ví dụ | Gốc                     | Dịch                                                |
 | :---: | ----------------------- | --------------------------------------------------- |
 |   1   | ミラーさんは　ＩＭＣ**の**　しゃいんです。 | Anh Miller là nhân viên **(của)**  <br>công ty IMC. |
 
-# ～さん
-**Cách dùng**: dùng để gọi tên một ai đó một cách lịch sự
+# ~ さん
+**Cách dùng**: xưng tên **lịch sự**
 
 > [!info]- Lưu ý
 > - Không dùng sau họ/tên của chính người nói

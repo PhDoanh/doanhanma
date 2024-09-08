@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 2
+title: 第２課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false
@@ -10,21 +10,20 @@ tags:
   - N5-JLPT
   - language
 ---
-%% Bắt đầu tại đây %%
 # これ／それ／あれ
 
 **Cách dùng**:
-- これ dùng để chỉ vật gần ng nói
-- それ dùng để chỉ vật gần ng nghe
-- あれ dùng để chỉ vật xa cả ng nói và nghe
+- **これ** dùng để chỉ vật **gần người nói**
+- **それ** dùng để chỉ vật **gần người nghe**
+- **あれ** dùng để chỉ vật **xa cả người nói và nghe**
 
-| Ví dụ | Gốc                            | Dịch                               |
-|:-----:| ------------------------------ | ---------------------------------- |
-|   1   | **それ**は　じしょですか。     | **Đó** là cuốn từ điển phải không? |
-|   2   | **これ**は　だれのかさですか。 | **Đây** là cái ô của ai?           |
+| Ví dụ | Gốc               | Dịch                                   |
+| :---: | ----------------- | -------------------------------------- |
+|   1   | **それ**は　じしょですか。   | **Cái đó** là cuốn từ điển phải không? |
+|   2   | **これ**は　だれのかさですか。 | **Cái này** là cái ô của ai?           |
 
-# この N／その N／あの N
-**Cách dùng**: bổ nghĩa cho danh từ
+# この ／その ／あの + N
+**Cách dùng**: bổ nghĩa cho danh từ với ý nghĩa **"danh từ này/đó/kia"**
 
 | Ví dụ | Gốc                | Dịch                           |
 | :---: | ------------------ | ------------------------------ |
@@ -32,9 +31,7 @@ tags:
 |   2   | **あの　かた**は　どなたですか。 | **Vị kia** là ai?              |
 
 # そうです
-**Cách dùng**:
-- Khẳng định câu trả lời cho câu hỏi đúng/sai
-- Với câu trả lời phủ định thì ちがいます được dùng phổ biến hơn そう
+**Cách dùng**: **khẳng định câu trả lời** cho câu hỏi đúng/sai, với câu trả lời phủ định thì **ちがいます** được dùng phổ biến hơn
 
 | Ví dụ | Gốc                                                         | Dịch                                                          |
 |:-----:| ----------------------------------------------------------- | ------------------------------------------------------------- |
@@ -42,10 +39,10 @@ tags:
 |   2   | それは　ミラーさんのですか。  <br>…いいえ、**ちがいます**。 | Đó có phải của anh Miller không?  <br>…Không, **không phải**. |
 
 > [!info]- Lưu ý
-> Ngoài cách dùng ちがいます, có thể dùng kết quả đúng để trả lời
+> Ngoài cách dùng **ちがいます**, có thể dùng kết quả đúng để trả lời
 
 # ～か、～か
-**Cách dùng**: Dùng để hỏi và yêu cầu ng nghe lựa chọn
+**Cách dùng**: dùng để **hỏi và yêu cầu** người nghe **lựa chọn**
 
 | Ví dụ | Gốc                                    | Dịch                               |
 | :---: | -------------------------------------- | ---------------------------------- |
@@ -53,16 +50,17 @@ tags:
 
 # N₁ の N₂
 **Cách dùng**:
-- Danh từ 1 giải thích nội dung danh từ 2 nói về cái gì (vd 1)
-- Danh từ 1 biểu thị chủ sở hữu của danh từ 2 (vd 2)
+- Danh từ 1 là **nội dung** danh từ 2 nói đến (vd 1)
+- Danh từ 1 là **chủ sở hữu** của danh từ 2 (vd 2)
 
 | Ví dụ | Gốc                    | Dịch                                  |
 | :---: | ---------------------- | ------------------------------------- |
-|   1   | これは　コンピューター**の**　ほんです。 | Đây là quyển sách **về** máy vi tính. |
-|   2   | これは　わたし**の**　ほんです。     | Đây là quyển sách **của** tôi.        |
+|   1   | これは　**コンピューターの　ほん**です。 | Đây là **quyển sách về máy vi tính**. |
+|   2   | これは　**わたしの　ほん**です。     | Đây là **quyển sách của tôi**.        |
+
 
 # の thay thế cho N
-**Cách dùng**: Lược Danh từ 2 trong cấu trúc N1 の N2
+**Cách dùng**: lược bỏ danh từ 2 trong cấu trúc **N1 の N2** với ý nghĩa không thay đổi
 
 | Ví dụ | Gốc                                                                         | Dịch                                                                |
 |:-----:| --------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -70,17 +68,17 @@ tags:
 |   2   | この　かばんは　あなたのですか。  <br>…いいえ、**わたしのじゃありません**。 | Cái cặp sách này là của bạn à?  <br>…Không, **không phải của tôi**. |
 
 > [!info]- Lưu ý
-> の chỉ dùng để thay thế cho Danh từ chỉ vật chứ không phải người
+> **の** chỉ dùng để thay thế cho danh từ **chỉ vật chứ không phải người**
 
-# お～
-**Cách dùng**: Đi cùng danh từ và biểu thị tính lịch sự như: (**お**)みやげ、(**お**)さけ、…
+# お N
+**Cách dùng**: **lịch sự** khi nói danh từ như: (**お**)みやげ - quà tặng、(**お**)さけ - đồ uống có cồn、…
 
 # そうですか
-**Cách dùng**: Bày tỏ là đã hiểu khi tiếp nhận thông tin mới
+**Cách dùng**: bày tỏ sự **ngạc nhiên/thấu hiểu** khi tiếp nhận thông tin mới
 
-| Ví dụ | Gốc                                                                                                         | Dịch                                                                                                |
-|:-----:| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-|   1   | この　かさは　あなたのですか。  <br>…いいえ、ちがいます。  <br>シュミットさんのです。  <br>**そうですか**。 | Cái ô này có phải của anh/chị không?  <br>…Không, không phải.  <br>Của anh Schmidt.  <br>**Thế à**. |
+| Ví dụ | Gốc                                                               | Dịch                                                                                              |
+| :---: | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+|   1   | この　かさは　あなたのですか。  <br>…いいえ、ちがいます。  <br>シュミットさんのです。  <br>**そうですか**。 | Cái ô này có phải của bạn không?  <br>…Không, không phải.  <br>Của anh Schmidt.  <br>**À thế à**. |
 
 > [!quote] Này bạn đọc ...
 > *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 

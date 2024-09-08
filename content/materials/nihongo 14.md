@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 14
+title: 第１４課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

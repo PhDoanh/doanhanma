@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 24
+title: 第２４課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

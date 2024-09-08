@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 5
+title: 第５課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false
@@ -10,9 +10,8 @@ tags:
   - language
   - N5-JLPT
 ---
-%% Bắt đầu tại đây %%
-# N (địa điểm) + へ　いきます／きます／かえります
-**Cách dùng**: đi/đến/về đâu
+# N (địa điểm) へ　いきます／きます／かえります
+**Cách dùng**: **đi/đến/về** đâu, chỗ nào
 
 | Ví dụ | Gốc             | Dịch                     |
 | :---: | --------------- | ------------------------ |
@@ -24,14 +23,14 @@ tags:
 > - Trợ từ **へ** phát âm là **え**
 > - Trợ từ **へ** chỉ phương hướng di chuyển
 
-# どこ(へ)も　いきません／いきませんでした
-**Cách dùng**: Trả lời theo cách phủ định hoàn toàn cho câu hỏi với từ để hỏi
+# Từ để hỏi も V
+**Cách dùng**: Phủ định hành động 
 
 | Ví dụ | Gốc           | Dịch                     |
 | :---: | ------------- | ------------------------ |
 |   1   | どこ(へ)も　いきません。 | Tôi không đi đâu cả.     |
-|   2   | たべません。        | Tôi không ăn gì cả.      |
-|   3   | きませんでした。      | (Đã) không có ai đến cả. |
+|   2   | なにも　たべません。    | Tôi không ăn gì cả.      |
+|   3   | だれも　きませんでした。  | (Đã) không có ai đến cả. |
 
 > [!info]- Lưu ý
 > Trợ từ **へ** có thể thay cho **も** đối với các động từ chỉ sự di chuyển

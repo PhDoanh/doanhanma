@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 13
+title: 第１３課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 27
+title: 第２７課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

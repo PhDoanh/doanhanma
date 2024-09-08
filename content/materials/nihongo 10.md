@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 10
+title: 第１０課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

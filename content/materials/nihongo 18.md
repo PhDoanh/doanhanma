@@ -1,6 +1,6 @@
 ---
 status: Done
-title: Nhật ngữ sơ cấp số 18
+title: 第１８課
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false

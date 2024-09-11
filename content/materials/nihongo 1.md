@@ -1,6 +1,6 @@
 ---
-status: Done
-title: "Nhật ngữ 1: [はじめまして](https://calendar.google.com/calendar/u/0/r/week)"
+status: Backlog
+title: "Nhật ngữ 1: Cái túi của ai?"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: false
@@ -10,69 +10,134 @@ tags:
   - language
   - N5-JLPT
 ---
+# だれのかばんですか？
+> [!tip]- Mẹo đọc truyện
+> - Nhấp vào biểu tượng **">"** để xem **bản dịch**
+> - Di chuột hoặc chạm vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
+
+> [!content]- **ゾアイン**さん: こんにちは、ヒエウ[[#~ さん|さん]]！げんきですか？
+> **Doanh**: Chào Hiếu! Bạn khỏe không?
+
+> [!content]- **ヒエウ**さん: こんにちは、ゾアインさん。げんき[[#N₁ は N₂ です|です]]！
+> **Hiếu**: Chào Doanh, mình khỏe!
+
+> [!content]- **ゾアイン**さん: これは [[#N₁ の N₂|ヒエウさんの かばん]]ですか？
+> **Doanh**: Đây có phải túi của Hiếu không?
+
+> [!content]- **ヒエウ**さん: はい、そうです。[[#N も|これも]] ゾアインさんの かばんですか？
+> **Hiếu**: Ừ, đúng rồi. (Mà) cái này cũng là túi của Doanh phải không?
+
+> [!content]- **ゾアイン**さん: いいえ、わたしの　[[#N₁ は N₂ じゃ（では）ありません|じゃありません]]。これは ホアンさんの かばんです。
+> **Doanh**: Không, không phải của mình. Đây là túi của Hoàng.
+
+> [!content]-  **ヒエウ**さん: なるほど。ホアンさんもげんき[[#N₁ は N₂ ですか|ですか]]？
+> **Hiếu**: Ra vậy. (Mà) hoàng cũng khỏe chứ?
+
+> [!content]-  **ゾアイン**さん: はい、ホアンさんもげんきです！
+> **Doanh**: Ừ, Hoàng cũng khỏe!
+
 # N₁ は N₂ です
-#### Ý nghĩa
-Danh từ 1 ==ở/thì/là== danh từ 2  
+**Ý nghĩa**: Danh từ 1 ==là== danh từ 2  
 
-#### Cách dùng 
-Khẳng định
+**Cách dùng**: khẳng định
 
-#### Ví dụ
-> [!content]- 1\. わたし**は**　マイク・ミラー**です**。
-> Tôi **là** Mike Miller.
+**Ví dụ**:
+> [!content]- 1\. **わたしは** がくせい**です**。
+> **Tôi là** sinh viên.
 
-> [!content]- 2\. わたし**は**　かいしゃいん**です**。
-> Tôi **là** nhân viên công ty.
+> [!content]- 2\. **これは** ほん**です**。
+> **Đây là** cuốn sách.
+
+> [!content]- 3\. **にほんは** くに**です**。
+> **Nhật Bản là** một đất nước.
 
 > [!info]- Lưu ý
-> Trợ từ **は** phát âm là **わ**
+> - Trợ từ **は** (ha) phát âm là **わ** (wa)
+> - **は** dùng để nhấn mạnh về chủ đề câu văn, trong mẫu ngữ pháp này là danh từ 1
+> - **です** là động từ mang ý nghĩa **"là"** trong câu khẳng định lịch sự
 
 # N₁ は N₂ じゃ（では）ありません
-**Cách dùng**: **phủ định**
+**Ý nghĩa**: danh từ 1 ==không là== danh từ 2
 
-| Ví dụ | Gốc                                                            | Dịch                                    |
-|:-----:| -------------------------------------------------------------- | --------------------------------------- |
-|   1   | サントスさん**は**　がくせい  <br>**じゃ（では）ありません**。 | Anh Santos **không phải là** sinh viên. |
+**Cách dùng**: phủ định
+
+**Ví dụ**
+> [!content]- 1\. **わたしは** せんせい**じゃありません**。
+> **Tôi không phải là** giáo viên.
+
+> [!content]- 2\. **これは** くるま**ではありません**。
+> **Đây không phải là** xe ô tô.
+
+> [!content]- 3\. **いぬは** ねこ**じゃありません**。
+> **Con chó không phải là** con mèo.
 
 > [!info]- Lưu ý
 > - **は** trong **では** phát âm là **わ**
+> - **じゃ（では）ありません** là dạng phủ định của **です**
 > - **じゃ**… thường được dùng trong hội thoại
 > - **では**… thường dùng trong các bài phát biểu trang trọng hay văn viết
 
 # N₁ は N₂ ですか
-**Cách dùng**: hỏi **đúng/sai** (vd 1,2) hoặc với **từ để hỏi** (vd 3)
+**Ý nghĩa**: 
+- danh từ 1 ==có phải là== danh từ 2 ==không==?
+- danh từ 1 ==là== danh từ 2 ==phải không==?
 
-| Ví dụ | Gốc                                                 | Dịch                                                                                      |
-| :---: | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-|   1   | ミラーさん**は**　アメリカじん**ですか**。  <br>…**はい**、アメリカじんです。    | Anh Miller **có phải** người Mỹ **không**?  <br>…**Vâng**, anh ấy là người Mỹ.            |
-|   2   | ミラーさん**は**　せんせい**ですか**。  <br>…**いいえ**、せんせいじゃ　ありません。 | Anh Miller **có phải** giáo viên **không**?  <br>…**Không**, anh ấy không phải giáo viên. |
-|   3   | あのかたは　**どなた**ですか。  <br>…（あのかたは）ミラーです。               | Vị kia là **ai**?  <br>…Vị kia là anh Miller.                                             |
+**Cách dùng**: hỏi **đúng/sai**
+
+> [!content]- 1\. **あなたは** がくせい**ですか**。
+> **Bạn có phải là** học sinh **không**?
+
+> [!content]- 2\. **にほんは** くに**ですか**。
+> **Nhật Bản là** một đất nước **phải không**?
+
+> [!content]- 3\. **がっこうは**　どこ**ですか**。
+> Trường học ở đâu?
 
 > [!info]- Lưu ý
-> Trong câu hỏi đúng/sai, đúng thì trả lời **はい** còn sai thì trả lời **いいえ**
+> - Trong câu hỏi đúng/sai, đúng thì trả lời **はい** còn sai thì trả lời **いいえ**
+> - Có thể hỏi với từ để hỏi: **どこ (ở đâu)、なに (cái gì)、だれ (ai)、…** (ví dụ 3)
 
 # N も
-**Cách dùng**: biểu thị một danh từ **cũng giống** với nội dung, quan điểm trước đó
+**Ý nghĩa**: danh từ ==cũng== ...
 
-| Ví dụ | Gốc                                        | Dịch                                                                           |
-| :---: | ------------------------------------------ | ------------------------------------------------------------------------------ |
-|   1   | ミラーさんは　かいしゃいんです。  <br>グプタさん**も**　かいしゃいんです。 | Anh Miller là nhân viên công ty.  <br>Anh Gupta **cũng là** nhân viên công ty. |
+**Cách dùng**: liệt kê thêm đối tượng có chung đặc điểm với đối tượng đã nói trước đó
+
+**Ví dụ**
+> [!content]- 1\. **かれも**　せんせいです。 
+> (Tôi là giáo viên) Anh ấy cũng là giáo viên.
+
+> [!content]- 2\. **かのじょも**　しっている。
+> (Không chỉ người khác biết) **Cô ấy cũng** biết.
+
+> [!content]- 3\. **このもんだいも**　むずかしい。
+> (Ngoài câu khó đó ra) Câu hỏi này cũng khó.
 
 # N₁ の N₂
+**Ý nghĩa**:
+- danh từ 2 ==của== danh từ 1
+- danh từ 2 ==nói về== danh từ 1
+
 **Cách dùng**: danh từ 1 **bổ nghĩa** (bổ sung thông tin) cho danh từ 2
 
-| Ví dụ | Gốc                     | Dịch                                                |
-| :---: | ----------------------- | --------------------------------------------------- |
-|   1   | ミラーさんは　ＩＭＣ**の**　しゃいんです。 | Anh Miller là nhân viên **(của)**  <br>công ty IMC. |
+**Ví dụ**:
+> [!content]- 1\. **わたしのほん**です。
+> Quyển sách của tôi.
+
+> [!content]- 2\. **にほんごのほん**です。
+> Quyển sách về tiếng Nhật.
+
+> [!content]- 3\. **がくせいのしゅくだい**です。
+> Bài tập về nhà của học sinh.
 
 # ~ さん
+**Ý nghĩa**: anh/chị/ông/bà/... ~
+
 **Cách dùng**: xưng tên **lịch sự**
 
 > [!info]- Lưu ý
 > - Không dùng sau họ/tên của chính người nói
 > - Đối với trẻ em, **ちゃん** thay cho **さん** thể hiện sắc thái thân mật
 > - **あなた** dùng trong quan hệ cực kỳ thân mật
-
 
 > [!quote] Này bạn đọc ...
 > *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 

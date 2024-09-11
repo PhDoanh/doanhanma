@@ -12,12 +12,14 @@ cssclasses:
 
 Blog chủ yếu xoay quanh những hiểu biết của mình về **công nghệ**, trải nghiệm về **sản phẩm và dịch vụ số**, song là kinh nghiệm **kiếm tiền** mà mình tích lũy được theo thời gian. Nhưng đôi khi mình cũng đá sang các lĩnh vực khác như: tiếng nhật, đại học, thể thao, ...
 
+
+
+
 # Các câu hỏi thường gặp
 
 > [!question]- Làm sao để tạo trang blog như bạn?
-> Tài liệu [này](https://quartz.jzhao.xyz/) là tất cả những gì bạn cần!
+> Tài liệu [này](https://quartz.jzhao.xyz/) là tất cả những gì bạn cần để tạo một web!
 
-> [!question]- Mình làm cộng tác viên blog được không?  
+> [!question]- Mình viết bài trên này được không?  
 > Hiện tại đây là **blog cá nhân,** bạn chỉ có thể **nhận xét**, đề xuất **ý tưởng**, **phản hồi** về trải nghiệm dùng và **đặt câu hỏi**. Nhưng mình sẽ cân nhắc thêm tính năng cộng tác viết bài khi blog trở nên phổ biến. Bạn có thể thúc đẩy quả trình đó bằng việc chia sẻ các bài viết cho mọi người👌
-
 

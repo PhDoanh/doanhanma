@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d4c080fd14fa1c",
+        "id": "cf6c8d9b8bb22c48",
         "type": "tabs",
         "children": [
           {
-            "id": "34538f67f250e2fb",
+            "id": "13f81f3a3915042d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "materials/nihongo 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa811b413b0df6d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,37 +171,40 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "34538f67f250e2fb",
+  "active": "13f81f3a3915042d",
   "lastOpenFiles": [
-    "draft.md",
     "materials/nihongo 1.md",
+    "index.md",
+    "draft.md",
+    "images/Recording 20240910124450.webm",
+    "Recording 20240910124038.webm",
+    "Recording 20240910124015.webm",
+    "materials/algebra 1.md",
+    "tags/grammar.md",
+    "tags/my-product.md",
+    "tags/japanese.md",
+    "templates/advanced table.md",
+    "tags/school.md",
+    "tags/coding.md",
+    "jobs/testing terms.md",
+    "templates/foldersPage.md",
+    "templates/articles.md",
     "materials/nihongo 9.md",
     "materials/nihongo 5.md",
     "materials/nihongo 4.md",
     "materials/nihongo 3.md",
     "materials/nihongo 2.md",
-    "index.md",
     "materials/nihongo 16.md",
     "materials/nihongo 11.md",
     "materials/sql.md",
     "materials/nihongo 29.md",
     "materials/nihongo 28.md",
-    "jobs/testing terms.md",
     "materials/nihongo 10.md",
     "jobs/pii.md",
-    "materials/japanese setup.md",
-    "tags/japanese.md",
-    "jobs/blogger from zero.md",
-    "materials/bash scripting.md",
-    "jobs/browser logs.md",
-    "jobs/web debugging proxy.md",
-    "jobs/screenshots.md",
-    "jobs/screencast.md",
-    "jobs/mobile device logs.md",
-    "tags/tester.md",
     "images/anki_hCnpzG1uEn.jpg",
     "images/Pasted image 20240831133538.png",
     "images/Pasted image 20240831134313.png",

@@ -1,9 +1,9 @@
 ---
-status: Done
-title: 第２３課
+status: Backlog
+title: "Nhật ngữ 23:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar

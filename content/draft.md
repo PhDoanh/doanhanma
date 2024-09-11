@@ -1,28 +1,16 @@
 ---
-draft: false
+draft: true
 ---
 
-<table id="myTable" class="display">
-    <thead>
-        <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Row 1 Data 1</td>
-            <td>Row 1 Data 2</td>
-        </tr>
-        <tr>
-            <td>Row 2 Data 1</td>
-            <td>Row 2 Data 2</td>
-        </tr>
-    </tbody>
-</table>
-<script>
-	$(document).ready(function() {
-	  $('#myTable').DataTable();
-	});
-</script>
+email: doanh7412@gmail.com
+pass: DoanhLoveVANS123
 
+personal info:
+Foot size: Male - 6.5
+Street: 421 Front St
+City: Beaufort
+State: Nebraska
+Zip code: 28516
+
+brookstone
+pass: DoanhInBrookstone123

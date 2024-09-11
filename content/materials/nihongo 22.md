@@ -1,9 +1,9 @@
 ---
-status: Done
-title: 第２２課
+status: Backlog
+title: "Nhật ngữ 22:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - language

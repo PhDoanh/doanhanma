@@ -1,9 +1,9 @@
 ---
-status: Done
-title: 第７課
+status: Backlog
+title: "Nhật ngữ 7:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar

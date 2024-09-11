@@ -7,5 +7,21 @@
       ],
       "key": "C"
     }
+  ],
+  "templater-obsidian:templates/advanced table.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }

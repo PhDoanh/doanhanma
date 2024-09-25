@@ -1,7 +1,6 @@
 name: "Báo cáo lỗi"
-about: "Có điều gì đó ở Doanhanma không diễn ra như bạn mong đợi"
-# description: Có điều gì đó ở Doanhanma không diễn ra như bạn mong đợi
-title:
+description: "Có điều gì đó ở Doanhanma không diễn ra như bạn mong đợi"
+title: ""
 labels: ["bug"]
 body:
   - type: markdown

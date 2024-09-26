@@ -9,7 +9,7 @@ body:
         Lưu ý:
         - Mô tả rõ ràng và ngắn gọn về tiêu đề lỗi (cái gì, ở đâu, khi nào)
         - Không báo cáo các vấn đề chính tả tại đây!
-        - Bạn nên bắt đầu bước tái tạo đầu tiên trên trang chủ
+        - Bạn nên bắt đầu bước tái hiện lỗi đầu tiên trên trang chủ
   - type: textarea
     id: repro
     attributes:
@@ -29,6 +29,7 @@ body:
       label: "Chi tiết về lỗi"
       description: "Nói cho mình biết chuyện gì đã xảy ra và những gì bạn mong đợi"
       placeholder: "ví dụ: Biểu tượng con trỏ chuột hình bàn tay xuất hiện khi di chuột qua liên kết 'Sửa bài viết' nhưng khi nhấp vào lại không có bất kỳ phản hồi nào trả về. Theo mong đợi, liên kết được nhấp vào sẽ chuyển hướng người dùng tới một trang chỉnh sửa bài viết hiện tại." 
+      render: bash
     validations:
       required: true
   - type: dropdown
@@ -46,7 +47,6 @@ body:
     attributes:
       label: "Thông tin bổ sung"
       description: "Các thông tin khác như: phiên bản hệ điều hành thiết bị, ảnh chụp màn hình, nhật ký trình duyệt, ... Bạn có thể sao chép và dán tại đây!"
-      render: shell
   - type: input
     id: contact
     attributes:

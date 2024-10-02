@@ -49,9 +49,9 @@ body:
       label: "Additional information"
       description: "If possible, please provide evidence for your bug about one of the following: OS version, screenshots, screencast, browser logs"
       placeholder: |
-        OS version: Windows 11 
-        Screenshots: [screenshots link]
-        Screencast: [screencast link]
+        OS version: Windows 11, 
+        Screenshots: [screenshots link], 
+        Screencast: [screencast link], 
         Browser log: [browser log link]
   - type: input
     id: contact

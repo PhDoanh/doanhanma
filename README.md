@@ -5,7 +5,7 @@
 **Special thanks to Quartz** 🙏, a basic static site generator that has magically transformed my individual Markdown files into a user-friendly blog! If you're interested, you can learn more about it [here](https://quartz.jzhao.xyz/).
 
 ☝️ Note:
-- This is a personal project but that doesn't mean you can't collaborate. This has been discussed [here](https://phdoanh.github.io/doanhanma/)!
+- This is a personal project but that doesn't mean you can't collaborate. This has been discussed [here](https://github.com/PhDoanh/doanhanma/discussions/39)!
 - I would appreciate it if you find a web bug and report it to me through [this](https://github.com/PhDoanh/doanhanma/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+)!
 
 ## Sponsors

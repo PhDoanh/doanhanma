@@ -1,0 +1,67 @@
+name: "Bug Report"
+description: "Something about Doanhanma isn't working the way you expect"
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Note:
+        - Do not report spelling problems here!
+        - A clear and concise description of the bug title (what, where, when)
+        - You should start the first step of reproducing the bug on the home page.
+        - Please attach a image or video as a link.
+  - type: textarea
+    id: repro
+    attributes:
+      label: "Steps to reproduce the bug"
+      description: "Please guide me step by step to trigger this bug!"
+      placeholder: |
+        1. Go to ~
+        2. Click/Tap on ~
+        3. Scroll/Swipe down ~
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: detail-result
+    attributes:
+      label: "Bug details"
+      description: "Tell me what happened and what you expect."
+      placeholder: "For example, A hand cursor icon appears when hovering over the 'Edit Post' link but clicking it returns no response. As expected, the clicked link redirects the user to an edit page for the current post." 
+      render: bash
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: "Which browser does this bug occur on?"
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: textarea
+    id: more-info
+    attributes:
+      label: "Additional information"
+      description: "If possible, please provide evidence for your bug about one of the following: OS version, screenshots, screencast, browser logs"
+      placeholder: |
+        OS version: Windows 11, 
+        Screenshots: [screenshots link], 
+        Screencast: [screencast link], 
+        Browser log: [browser log link]
+  - type: input
+    id: contact
+    attributes:
+      label: "Contact Email"
+      description: "Just in case I need more information."
+      placeholder: "email@example.com"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "*Thank you for taking the time to fill out this bug report!*"
+

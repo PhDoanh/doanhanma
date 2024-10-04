@@ -2,7 +2,10 @@
   "enabledCssSnippets": [
     "S - Images Adjustments",
     "sia",
-    "imgAdj"
+    "img",
+    "general",
+    "btn",
+    "img"
   ],
   "theme": "obsidian"
 }

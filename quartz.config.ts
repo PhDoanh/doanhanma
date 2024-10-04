@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "💪Doanhanma",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { // page tracker
+    analytics: {
       provider: "google",
       tagId: "G-59D57MVJSQ",
     },
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff", // page background
-          lightgray: "#e5e5e5", // borders
-          gray: "#b8b8b8", // graph links, heavier borders
-          darkgray: "#212121", // body text
-          dark: "#2b2b2b", // header text and icons
-          secondary: "#468585", // link colour, current graph node
-          tertiary: "#50B498", // hover states and visited graph nodes
-          highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text, highlighted lines of code
-          textHighlight: "#fff23644", // markdown highlighted text background
+          light: "#ffffff",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#212121",
+          dark: "#2b2b2b",
+          secondary: "#468585",
+          tertiary: "#50B498",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23644",
         },
         darkMode: {
           light: "#1e2129",

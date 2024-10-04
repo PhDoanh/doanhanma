@@ -5,7 +5,8 @@
 @use "../components/styles/footer.scss";
 @use "../components/styles/darkmode.scss";
 @use "../components/styles/graph.scss";
-@use "../../content/.obsidian/snippets/imgAdj.css"; // for image ajustments
+@use "../../content/.obsidian/snippets/btn.css";
+@use "../../content/.obsidian/snippets/img.css";
 
 // base.scss
 .page {
@@ -24,7 +25,12 @@ h4 {
 	margin-top: 1.62rem;
 	margin-bottom: 1rem;
 }
-
+audio,
+video {
+	width: 100%;
+	height: 35px;
+	border-radius: 5px;
+}
 // callouts.scss
 .callout {
 	&[data-callout="content"] {

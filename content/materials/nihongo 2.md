@@ -1,93 +1,186 @@
 ---
 status: Backlog
-title: "Nhật ngữ 2:"
+title: "Nhật ngữ 2: Quyển sách của ai?"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: true
+draft: false
 tags:
   - japanese
   - grammar
   - N5-JLPT
   - language
 ---
+# だれの　ほん？
+> [!tip]- Mẹo đọc truyện
+> - Nhấp vào biểu tượng **">"** để xem **bản dịch**
+> - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
+
+> [!content]- **キエン**さん: [[#これ／それ／あれ|これ]]は　わたしの　ほんね？
+> **Kiên**: Đây là sách của mình nhỉ?
+> 
+> %% audio %%
+
+> [!content]- **ビン**さん: ちがうよ、それは　[[#N₁ の N₂|わたしの　ほん]]だよ。
+> **Bình**: Không phải, đó là sách của tôi mà.
+> 
+> %% audio %%
+
+> [!content]- **キエン**さん: ああ、[[#そうですか|そうですか]]。じゃあ、そのほんは　[[#の thay thế cho N|だれの]]？
+> **Kiên**: À, vậy à. Thế còn cuốn sách đó là của ai?
+> 
+> %% audio %%
+
+> [!content]- **ヒエウ**さん: [[#この ／その ／あの + N|あのほん]]は　わたしの　ほんだ。
+> **Hiếu**: Là của mình! 🖐️
+> 
+> %% audio %%
+
+> [!content]- **キエン**さん: えっと、これも？
+> **Kiên**: Xem nào... Cái này cũng vậy à?
+> 
+> %% audio %%
+
+> [!content]- **ビン**さん: [[#そうです|そうです]]。
+> **Bình**: Chuẩn không cần chỉnh! 👌
+> 
+> %% audio %%
+
+> [!content]- **キエン**さん: えっ？ほんとうに　わたしの　ほんは　[[#～か、～か|これですか、それですか]]？
+> **Hiếu**: Ủa? (Vậy) cuốn này hay cuốn đó mới thực sự là sách của mình? 😵‍💫
+> 
+> %% audio %%
+
+> [!content]- **ビン**さん: それは　むずかしいね。
+> **Bình**: Ảo ma (khó) nhỉ!
+> 
+> %% audio %%
+
 # これ／それ／あれ
+**Ý nghĩa**: Cái ==này/đó/kia==
 
 **Cách dùng**:
-- **これ** dùng để chỉ vật **gần người nói**
-- **それ** dùng để chỉ vật **gần người nghe**
-- **あれ** dùng để chỉ vật **xa cả người nói và nghe**
+- **これ** dùng để chỉ vật ==gần người nói==
+- **それ** dùng để chỉ vật ==gần người nghe==
+- **あれ** dùng để chỉ vật ==xa cả người nói và nghe==
 
-| Ví dụ | Gốc               | Dịch                                   |
-| :---: | ----------------- | -------------------------------------- |
-|   1   | **それ**は　じしょですか。   | **Cái đó** là cuốn từ điển phải không? |
-|   2   | **これ**は　だれのかさですか。 | **Cái này** là cái ô của ai?           |
+**Ví dụ**:
+> [!content]- 1\. **これ**が　わたしの　かばんです。
+> **Đây** là cái cặp của tôi.
+> 
+> ![[Screen Recording 2024-09-15 093950.mp3]]
+
+> [!content]- 2\. **それ**は あなたの ほん ですか？
+> **Đó** là sách của bạn à?
+> 
+> ![[Screen Recording 2024-09-15 094030.mp3]]
+
+> [!content]- 3\. **あれ**は たてもの です。
+> **Kia** là một tòa nhà.
+> 
+> ![[Screen Recording 2024-09-15 094051.mp3]]
 
 # この ／その ／あの + N
-**Cách dùng**: bổ nghĩa cho danh từ với ý nghĩa **"danh từ này/đó/kia"**
+**Ý nghĩa**: danh từ ==này/đó/kia==
 
-| Ví dụ | Gốc                | Dịch                           |
-| :---: | ------------------ | ------------------------------ |
-|   1   | **この　ほん**は　わたしのです。 | **Quyển sách này** là của tôi. |
-|   2   | **あの　かた**は　どなたですか。 | **Vị kia** là ai?              |
+**Cách dùng**: bổ nghĩa cho danh từ với ý nghĩa =="danh từ này/đó/kia"==
+
+**Ví dụ**:
+> [!content]- 1\. **この　ほん**は　とても　おもしろいです。
+> **Quyển sách này** rất thú vị.
+> 
+> ![[Screen Recording 2024-09-15 094111.mp3]]
+
+> [!content]- 2\. **その　しゃしん**は　きれいです。
+> **Bức ảnh đó** thì đẹp.
+> 
+> ![[Screen Recording 2024-09-15 094132.mp3]]
+
+> [!content]- 3\. **あの　うち**は　とても　たかいです。
+> **Căn nhà kia** rất cao.
+> 
+> ![[Screen Recording 2024-09-15 094153.mp3]]
 
 # そうです
-**Cách dùng**: **khẳng định câu trả lời** cho câu hỏi đúng/sai, với câu trả lời phủ định thì **ちがいます** được dùng phổ biến hơn
+**Ý nghĩa**: đúng vậy, chuẩn rồi, ...
 
-| Ví dụ | Gốc                                                         | Dịch                                                          |
-|:-----:| ----------------------------------------------------------- | ------------------------------------------------------------- |
-|   1   | それは　じしょですか。  <br>…はい、**そうです**。           | Đó có phải quyển từ điển không?  <br>…Vâng, **phải**.         |
-|   2   | それは　ミラーさんのですか。  <br>…いいえ、**ちがいます**。 | Đó có phải của anh Miller không?  <br>…Không, **không phải**. |
+**Cách dùng**: ==khẳng định câu trả lời== cho câu hỏi đúng/sai, với câu trả lời phủ định thì **ちがいます** được dùng phổ biến hơn
+
+**Ví dụ**:
+> [!content]- 1\. この　えいがは　おもしろいですか？<br>…はい、**そうです**。
+> Bộ phim này thú vị đúng không?
+> ...Ừ, **đúng**. 👍
+> 
+> ![[Screen Recording 2024-09-15 094314.mp3]]
+
+> [!content]- 2\. この　ひとは　せんせいですか？<br>…いいえ、**ちがいます**。
+> Người này là giáo viên đúng không?
+> ...Không, **sai rồi**. 👎
+> 
+> ![[Screen Recording 2024-09-15 094421.mp3]]
 
 > [!info]- Lưu ý
 > Ngoài cách dùng **ちがいます**, có thể dùng kết quả đúng để trả lời
 
 # ～か、～か
-**Cách dùng**: dùng để **hỏi và yêu cầu** người nghe **lựa chọn**
+**Ý nghĩa**: ~ hay ~ ?
 
-| Ví dụ | Gốc                                    | Dịch                               |
-| :---: | -------------------------------------- | ---------------------------------- |
-|   1   | これは「９」です**か**、「７」です**か**。  <br>…「９」です。 | Đây là “9” hay “7” ?  <br>…Là “9”. |
+**Cách dùng**: dùng để ==hỏi và yêu cầu== người nghe ==lựa chọn==
+
+**Ví dụ**:
+> [!content]- 1\. これは　「６」です**か**、「９」です**か**。
+> Đây là số 6 **hay** số 9**?** 🤔
+> 
+> ![[Screen Recording 2024-09-15 094445.mp3]]
 
 # N₁ の N₂
+**Ý nghĩa**: 
+- danh từ 2 ==của== danh từ 1
+- danh từ 2 ==nói về== danh từ 1
+
 **Cách dùng**:
-- Danh từ 1 là **nội dung** danh từ 2 nói đến (vd 1)
-- Danh từ 1 là **chủ sở hữu** của danh từ 2 (vd 2)
+- Danh từ 1 là ==nội dung== danh từ 2 nói đến (vd 1)
+- Danh từ 1 là ==chủ sở hữu== của danh từ 2 (vd 2)
 
-| Ví dụ | Gốc                    | Dịch                                  |
-| :---: | ---------------------- | ------------------------------------- |
-|   1   | これは　**コンピューターの　ほん**です。 | Đây là **quyển sách về máy vi tính**. |
-|   2   | これは　**わたしの　ほん**です。     | Đây là **quyển sách của tôi**.        |
+**Ví dụ**:
+> [!content]- 1\. わたし**の**　かのじょ。
+> Bạn gái **của** tôi.
+> 
+> ![[Screen Recording 2024-09-15 094519.mp3]]
 
+> [!content]- 2\. にほんご**の**　ほん。
+> Sách **về** tiếng nhật.
+> 
+> ![[Screen Recording 2024-09-15 094537.mp3]]
 
 # の thay thế cho N
-**Cách dùng**: lược bỏ danh từ 2 trong cấu trúc **N1 の N2** với ý nghĩa không thay đổi
+**Cách dùng**: ==lược bỏ== danh từ 2 trong cấu trúc **N1 の N2** với ý nghĩa ==không thay đổi==
 
-| Ví dụ | Gốc                                                                         | Dịch                                                                |
-|:-----:| --------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-|   1   | あれは　だれの　かばんですか。  <br>…**さとうさんの**です。                 | Kia là cặp sách của ai?  <br>…**Của anh/chị Sato**.                 |
-|   2   | この　かばんは　あなたのですか。  <br>…いいえ、**わたしのじゃありません**。 | Cái cặp sách này là của bạn à?  <br>…Không, **không phải của tôi**. |
+**Ví dụ**:
+> [!content]- 1\. これは　だれの　かさですか。<br>…あ、**わたしの**　です。
+> Cái này là ô của ai đây?
+> ...A 😯, là **của tôi**.
+> 
+> ![[Screen Recording 2024-09-15 094612.mp3]]
 
 > [!info]- Lưu ý
 > **の** chỉ dùng để thay thế cho danh từ **chỉ vật chứ không phải người**
 
 # お N
-**Cách dùng**: **lịch sự** khi nói danh từ như: (**お**)みやげ - quà tặng、(**お**)さけ - đồ uống có cồn、…
+**Cách dùng**: ==lịch sự== khi nói danh từ như: (**お**)みやげ - quà tặng、(**お**)さけ - đồ uống có cồn、…
 
 # そうですか
-**Cách dùng**: bày tỏ sự **ngạc nhiên/thấu hiểu** khi tiếp nhận thông tin mới
+**Ý nghĩa**: Là vậy à, à thế à, ... 
 
-| Ví dụ | Gốc                                                               | Dịch                                                                                              |
-| :---: | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-|   1   | この　かさは　あなたのですか。  <br>…いいえ、ちがいます。  <br>シュミットさんのです。  <br>**そうですか**。 | Cái ô này có phải của bạn không?  <br>…Không, không phải.  <br>Của anh Schmidt.  <br>**À thế à**. |
+**Cách dùng**: bày tỏ sự ==ngạc nhiên/thấu hiểu== khi tiếp nhận thông tin mới
 
-> [!quote] Này bạn đọc ...
-> *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 
-> > [!tip]- Và có thể ủng hộ một ít động lực đó ngay bây giờ bằng các cách sau
-> > - Qua nền tảng Ko-fi:
-> > 
-> >   <a href='https://ko-fi.com/M4M111S8CI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-> > - Qua ngân hàng Việt:
-> >   
-> >   ![[91405bac428be6d5bf9a.jpg|250]]
-> > 
-> > *Bạn có thể chỉnh cho phù hợp túi tiền, cảm ơn sự hào phóng của bạn rất nhiều 🥰*
+**Ví dụ**:
+> [!content]- 1\. あした　あわないで　ください。<br>…そうですか。 
+> Ngày mai đừng gặp tôi nữa!
+> ...À thế à 😏
+> 
+> ![[Screen Recording 2024-09-15 094656.mp3]]
+
+> [!quote]- Còn một điều nữa☝️...
+> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
+> 
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

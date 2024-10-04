@@ -1,96 +1,205 @@
 ---
 status: Backlog
-title: "Nhật ngữ 6:"
+title: "Nhật ngữ 6: Người bạn lâu ngày không gặp"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: true
+draft: false
 tags:
   - japanese
   - grammar
   - N5-JLPT
   - language
 ---
-%% Bắt đầu tại đây %%
-# N を V
-**Cách dùng**: Diễn tả hành động làm một việc nào đó
+# ながい　あいだ　あって　いない　ともだち
+> [!tip]- Mẹo đọc truyện
+> - Nhấp vào biểu tượng **">"** để xem **bản dịch**
+> - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-| Ví dụ | Gốc                        | Dịch                  |
-|:-----:| -------------------------- | --------------------- |
-|   1   | ジュース**を**　のみます。 | Tôi uống nước hoa quả |
-|   2   | サッカー**を**　します。   | Chơi bóng đá.         |
-|   3   | パーティー**を**　します。 | Mở tiệc.              |
-|   4   | でんわ**を**　します。     | Gọi điện thoại.       |
+> [!content]- **ゾアイン**さん: あ、ダットさん。ひさしぶり！
+> **Doanh**: A, Đạt. Lâu rồi không gặp!
+> 
+> %% audio %%
+
+> [!content]- **ダット**さん:  [[#～か|ゾアインさんですか]]。こんにちわ！
+> **Đạt**: Doanh đấy phải không? Chào nhé!
+> 
+> %% audio %%
+
+> [!content]- **ゾアイン**さん: いま　ひま　ですか？
+> **Doanh**: Giờ ông rảnh không?
+> 
+> %% audio %%
+
+> [!content]- **ダット**さん: [[#なん、なに|なに]]？
+> **Đạt**: Chuyện gì thế? 
+> 
+> %% audio %%
+
+> [!content]- **ゾアイン**さん: いっしょ に 　[[#V ませんか|いきませんか]]？
+> **Doanh**: Đi cùng tôi không?
+> 
+> %% audio %%
+
+> [!content]- **ダット**さん: [[#なにを しますか|なにを　しますか]]。
+> **Đạt**: Để làm gì?
+> 
+> %% audio %%
+
+> [!content]- **ゾアイン**さん: コーヒー を　のんで、おしゃべりする　だけですよ！
+> **Doanh**: Chỉ uống cà phê và tâm sự thôi mà! 
+> 
+> %% audio %%
+
+> [!content]- **ダット**さん: どこ[[#N (địa điểm) で V|で]]　[[#N を V|コーヒー を　のみますか]]？
+> **Đạt**: Uống chỗ nào?
+> 
+> %% audio %%
+
+> [!content]- **ゾアイン**さん: わたしの　うちで！
+> **Doanh**: Ở nhà tôi! 
+> 
+> %% audio %%
+
+> [!content]- **ダット**さん: いいですよ。[[#V ましょう|いきましょう]]！
+> **Đạt**: Được đấy. Đi thôi!
+> 
+> %% audio %%
+
+# N を V
+**Cách dùng**: diễn tả hành động của một động từ xảy ra đối với một danh từ
+
+**Ví dụ**:
+> [!content]- 1\. ほん**を**　よみますせん。
+> Tôi **không đọc sách**.
+> 
+> ![[Screen Recording 2024-09-16 211056.mp3]]
+
+> [!content]- 2\. テニス**を**　します。
+> Tôi **chơi quần vợt**.
+> 
+> ![[Screen Recording 2024-09-16 211144.mp3]]
+
+> [!content]- 3\. テレビ**を**　みました。
+> Tôi **đã xem TV**.
+> 
+> ![[Screen Recording 2024-09-16 211225.mp3]]
 
 > [!info]- Lưu ý
-> - **を** biểu thị tân ngữ của ngoại động từ V
-> - Động từ **します** (làm) có phạm vi nghĩa rất rộng (vd 2, 3, 4)
+> - **を** biểu thị tân ngữ của ngoại động từ[[#^1d3d3e|¹]] 
+> - Động từ **します** có phạm vi nghĩa rất rộng: làm, chơi (thể thao), gọi (điện thoại), ...  
+
+^80bf2a
 
 # なにを　しますか
-**Cách dùng**: Hỏi làm cái gì
+**Ý nghĩa**: (Sẽ) làm cái gì?
 
-| Ví dụ | Gốc                                  | Dịch                                                   |
-| :---: | ------------------------------------ | ------------------------------------------------------ |
-|   1   | げつようび　**なにをしますか**。  <br>…きょうとへ　いきます。 | Thứ hai anh/chị **làm gì**?  <br>…Tôi đi Kyoto.        |
-|   2   | きのう　**なにを　しましたか**。  <br>…サッカーを　しました。 | Hôm qua anh/chị **đã làm gì**?  <br>…Tôi chơi bóng đá. |
+**Cách dùng**: hỏi về hành động hoặc hoạt động mà người khác đang làm hoặc sẽ làm. Đây là cách hỏi thông tin về hành động cụ thể.
+
+**Ví dụ**:
+> [!content]- 1\. いま　あなたは　**なにを　しますか**。
+> Bây giờ bạn đang **làm gì**?
+> 
+> ![[Screen Recording 2024-09-16 211242.mp3]]
+
+> [!content]- 2\. ばんごはんに　**なにを　たべますか**。
+> Bạn sẽ **ăn gì** cho bữa tối?
+> 
+> ![[Screen Recording 2024-09-16 211300.mp3]]
 
 # なん、なに
+**Ý nghĩa**: ~ gì, cái gì, ...
+
 **Cách dùng**:
-- **なん** được dùng nếu sau nó là những từ bắt đầu bởi hàng **た、だ、な** hay khi có trợ số từ đi cùng
+- **なん** được dùng nếu sau nó là những từ bắt đầu bởi hàng **た、だ、な** hay khi có trợ số từ[[#^f8a08e|²]] đi cùng ^64169b
 - **なに** được dùng trong trường hợp còn lại
 
-|    Ví dụ     | Gốc                                    | Dịch                                   |
-|:------------:| -------------------------------------- | -------------------------------------- |
-|      1       | それは　**なん**ですか。               | Đó là **cái gì** thế?                  |
-|      2       | **なんの**　ほんですか。               | Quyển sách **về cái gì** vậy?          |
-| 3  <br>(b21) | ねる　まえに、**なんと**　いいますか。 | Bạn **nói gì** trước khi đi ngủ?       |
-|      4       | **なんで**　とうきょうへ　いきますか。 | Bạn đến Kyoto **bằng phương tiện gì**? |
-|      5       | テレーザちゃんは　**なんさい**ですか。 | Bé Tereza **mấy tuổi**?                |
-|      6       | **なに**を　かいますか。               | Anh/Chị mua **gì**?                    |
+**Ví dụ**:
+> [!content]- 1\. せんせいは　**なに**を　たべたいですか？
+> Thầy muốn ăn **cái gì** ạ?
+> 
+> ![[Screen Recording 2024-09-16 211318.mp3]]
+
+> [!content]- 2\. かいしゃには　**なに**で　いきますか？
+> Bạn sẽ đi bằng (phương tiện) **gì** tới công ty?
+> 
+> ![[Screen Recording 2024-09-16 211335.mp3]]
+
+> [!content]- 3\. おかあさんの　たんじょうびに、**なん**と　いいますか？
+> Bạn sẽ nói **cái gì** vào ngày sinh nhật của mẹ?
+> 
+> ![[Screen Recording 2024-09-16 211355.mp3]]
+
+> [!content]- 4\. このへやには　**なに**か　へんな　おとが　しますか？
+> Có âm thanh lạ **nào** phát ra từ phòng này không?
+> 
+> ![[Screen Recording 2024-09-16 211413.mp3]]
+
+> [!content]- 5\. このみせには　**なん**の　あたらしい　しょうひんが　ありますか？
+> Cửa hàng này có những sản phẩm **nào**?
+> 
+> ![[Screen Recording 2024-09-16 211432.mp3]]
+
+> [!content]- 6\. にほんごの　べんきょうは　**なん**で　たいへんですか？
+> **Tại sao** việc học tiếng Nhật lại khó khăn?
+> 
+> ![[Screen Recording 2024-09-16 211451.mp3]]
 
 > [!info]- Lưu ý
-> - なんで còn dùng để hỏi lí do, nên muốn rõ ý hỏi về phương tiện thì dùng なにで
-> - なん、なに đều mang cùng ý nghĩa
+> - **なんで** còn dùng để hỏi lí do (ví dụ 6), nên muốn rõ ý hỏi về phương tiện thì dùng **なにで**
+> - **なん、なに** đều mang cùng ý nghĩa
 
 # N (địa điểm) で V
-**Cách dùng**: Làm một việc nào đó ở đâu
+**Ý nghĩa**: làm cái gì ở đâu
 
-| Ví dụ | Gốc                                | Dịch                      |
-|:-----:| ---------------------------------- | ------------------------- |
-|   1   | えき**で**　しんぶんを　かいます。 | Tôi mua báo **ở** nhà ga. |
+**Cách dùng**: chỉ nơi mà một hành động xảy ra
+
+**Ví dụ**:
+> [!content]- 1\. このレストラン**で**　ごはんを　**たべます**。
+> Tôi **ăn** cơm **ở** nhà hàng này.
+> 
+> ![[Screen Recording 2024-09-16 211515.mp3]]
 
 # V ませんか
-**Cách dùng**: Dùng để mời hoặc đề nghị người nghe làm một việc gì đó
+**Ý nghĩa**: làm gì đó ==cùng nhau== không?
 
-| Ví dụ | Gốc                                                                                                       | Dịch                                                                                               |
-|:-----:| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-|   1   | いっしょに　きょうとへ　**いきませんか**。  <br>…ええ(はい)、いいですね(よ)。  <br>…すみません、ちょっと… | Anh/Chị có **đi** Kyoto **cùng** tôi không?  <br>…Vâng, hay quá.  <br>…Xin lỗi, không được rồi ạ … |
+**Cách dùng**: đề xuất, mời gọi hoặc khuyến khích ai đó làm một việc gì đó cùng bạn. Đây là cách lịch sự để đưa ra lời mời hoặc đề nghị.
+
+**Ví dụ**:
+> [!content]- 1\. いっしょに　 **いきませんか**？
+> Bạn có muốn **đi cùng không**?
+> 
+> ![[Screen Recording 2024-09-16 211532.mp3]]
 
 # V ましょう
-**Cách dùng**: Đề xuất, mời người nghe cùng làm một việc gì đó, cũng được dùng trong th người nghe tích cực đáp ứng đề xuất, lời mời đó
+**Ý nghĩa**: ==cùng làm== gì đó đi/thôi/... 
 
-| Ví dụ | Gốc                                             | Dịch                                                                            |
-| :---: | ----------------------------------------------- | ------------------------------------------------------------------------------- |
-|   1   | ちょっと　**やすみましょう**。                               | Chúng ta **(cùng) nghỉ** một lát đi.                                            |
-|   2   | いっしょに　ひるごはんを　  <br>たべませんか。  <br>…ええ、**たべましょう**。 | Anh/Chị có cùng ăn cơm trưa với tôi không?  <br>Được, chúng ta **cùng ăn** nhé. |
+**Cách dùng**: đề xuất, mời người nghe cùng làm một việc gì đó, thường được dùng trong trường hợp người nghe tích cực đáp ứng đề xuất, lời mời đó
+
+**Ví dụ**:
+> [!content]- 1\. いっしょに　えいがを　**みましょう**。
+> Mình **cùng xem** phim thôi.
+> 
+> ![[Screen Recording 2024-09-16 211600.mp3]]
 
 > [!info]- Lưu ý
 > **“V ませんか”** thể hiện tâm lý tôn trọng ý chí của người nghe hơn **“V ましょう”**
 
 # ～か
-**Cách dùng**: Biểu thị người nghe đã nắm bắt thông tin mới mà mình không biết từ người nói
+**Ý nghĩa**: phải không?, ~ ?, ...
 
-| Ví dụ | Gốc                                                                         | Dịch                                                      |
-|:-----:| --------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   1   | にちようび　きょうとへ　いきました。  <br>…**きょうとですか**。いいですね。 | Chủ nhật tôi đã đi Kyoto.  <br>…**Kyoto à**? Hay quá nhỉ. |
+**Cách dùng**: xác nhận hoặc hỏi lại thông tin, thường ở trong câu hỏi.
 
-> [!quote] Này bạn đọc ...
-> *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 
-> > [!tip]- Và có thể ủng hộ một ít động lực đó ngay bây giờ bằng các cách sau
-> > - Qua nền tảng Ko-fi:
-> > 
-> >   <a href='https://ko-fi.com/M4M111S8CI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-> > - Qua ngân hàng Việt:
-> >   
-> >   ![[91405bac428be6d5bf9a.jpg|250]]
-> > 
-> > *Bạn có thể chỉnh cho phù hợp túi tiền, cảm ơn sự hào phóng của bạn rất nhiều 🥰*
+**Ví dụ**:
+> [!content]- 1\. ベトナムにりょこうしたんですよ。<br>…ベトナムですか？いいですね！
+> Tôi đã du lịch đến Việt Nam rồi đấy!
+> ...Việt Nam? Sướng nhỉ!
+> 
+> ![[Screen Recording 2024-09-16 211629.mp3]]
+
+> [!quote]- Còn một điều nữa☝️...
+> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
+> 
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
+1. **Ngoại động từ**: loại động từ cần có một đối tượng (tân ngữ) để hoàn thành nghĩa của câu. [[#^80bf2a|↩️]] ^1d3d3e
+2. **Trợ số từ**: đơn vị của từ chỉ số như: cái, chiếc, miếng, giờ, phút, giây, ... [[#^64169b|↩️]] ^f8a08e

@@ -8,22 +8,18 @@ export const sharedPageComponents: SharedLayout = {
   floatedHeader: [
     Component.PageTitle(),
     Component.Spacer(),
-    // Component.MobileOnly(Component.Spacer()),
     Component.NavigationBar(),
     Component.Search(),
     Component.Darkmode(),
-    // Component.Translator(),
   ],
-  // header: [],
-  // afterBody: [],
   footer: Component.Footer({
     links: {
-      "Source code": "https://github.com/PhDoanh/doanhanma",
+      Github: "https://github.com/PhDoanh",
       Facebook: "https://www.facebook.com/PGDoanh",
       Youtube: "https://www.youtube.com/@phamgiadoanh",
-      Zalo: "https://zalo.me/0389161519",
-      "Email me": "mailto:phdoanh285@gmail.com" // instead of contact form in the near future
-    },
+      Email: "mailto:phdoanh285@gmail.com",
+      "Báo lỗi 🪲": "https://github.com/PhDoanh/doanhanma/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+"
+    }
   }),
 }
 
@@ -41,17 +37,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Backlinks()),
     Component.DesktopOnly(Component.Graph({
       localGraph: {
-        drag: true, // whether to allow panning the view around
-        zoom: true, // whether to allow zooming in and out
-        depth: 1, // how many hops of notes to display
-        scale: 2, // default view scale
-        repelForce: 0.5, // how much nodes should repel each other
-        centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 30, // how long should the links be by default?
-        fontSize: 0.6, // what size should the node labels be?
-        opacityScale: 1, // how quickly do we fade out the labels when zooming out?
-        removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        drag: true,
+        zoom: true,
+        depth: 1,
+        scale: 2,
+        repelForce: 0.5,
+        centerForce: 0.3,
+        linkDistance: 30,
+        fontSize: 0.6,
+        opacityScale: 1,
+        removeTags: [],
+        showTags: true,
       },
       globalGraph: {
         drag: true,
@@ -63,15 +59,15 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 30,
         fontSize: 0.6,
         opacityScale: 1,
-        removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        removeTags: [],
+        showTags: true,
       },
     })),
     Component.Comments({
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'PhDoanh/quartz',
+        repo: 'PhDoanh/doanhanma',
         // from data-repo-id
         repoId: 'R_kgDOMh8WzA',
         // from data-category
@@ -85,7 +81,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.Backlinks()),
-    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -103,7 +98,6 @@ export const defaultListPageLayout: PageLayout = {
   ],
   afterBody: [],
   left: [
-    // Component.DesktopOnly(Component.Explorer()),
     Component.DesktopOnly(Component.RecentNotes(
       {
         showTags: false,

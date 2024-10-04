@@ -8,9 +8,7 @@
         }
       },
       "defaultName": "",
-      "templates": [
-        "templates/articles.md"
-      ],
+      "templates": [],
       "excludedNotes": [
         "materials/index.md"
       ],
@@ -73,9 +71,7 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [
-        "templates/articles.md"
-      ],
+      "templates": [],
       "excludedNotes": [
         "products/index.md"
       ],
@@ -131,9 +127,7 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [
-        "templates/articles.md"
-      ],
+      "templates": [],
       "excludedNotes": [
         "services/index.md"
       ],
@@ -170,9 +164,7 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [
-        "templates/articles.md"
-      ],
+      "templates": [],
       "excludedNotes": [
         "courses/index.md"
       ],
@@ -209,9 +201,7 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [
-        "templates/articles.md"
-      ],
+      "templates": [],
       "excludedNotes": [
         "jobs/index.md"
       ],

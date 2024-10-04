@@ -13,16 +13,28 @@ tags:
 aliases:
   - nihongo 29
 cssclasses:
-  - imgAdj
+  - img
 ---
 # Vて　います
+**Ý nghĩa**: 
+
 **Cách dùng**: diễn tả trạng thái sự vật, là kết quả của động từ gây ra trạng thái đó
 
-| Ví dụ | Gốc                  | Dịch                     |
-| :---: | -------------------- | ------------------------ |
-|   1   | まどが　**われて　います**。     | Cửa sổ **bị vỡ**.        |
-|   2   | でんきが　**ついて　います**。    | Đèn **sáng**.            |
-|   3   | この　いすは　**こわれて　います**。 | Cái ghế này **bị hỏng**. |
+**Ví dụ**:
+> [!content]- Title
+> Contents
+> 
+> audio
+
+> [!content]- Title
+> Contents
+> 
+> audio
+
+> [!content]- Title
+> Contents
+> 
+> audio
 
 > [!info]- Lưu ý
 > - Trợ từ **が** được dùng khi miêu tả trạng thái ngay trước mắt
@@ -73,17 +85,10 @@ cssclasses:
 > [!info]- Lưu ý
 > Trợ từ **へ** và **を** đi sau **どこか、なにか** thì có thể lược bỏ nhưng **で** và **に** thì không!
 
-> [!quote] Này bạn đọc ...
-> *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 
-> > [!tip]- Và có thể ủng hộ một ít động lực đó ngay bây giờ bằng các cách sau
-> > - Qua nền tảng Ko-fi:
-> > 
-> >   <a href='https://ko-fi.com/M4M111S8CI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-> > - Qua ngân hàng Việt:
-> >   
-> >   ![[91405bac428be6d5bf9a.jpg|250]]
-> > 
-> > *Bạn có thể chỉnh cho phù hợp túi tiền, cảm ơn sự hào phóng của bạn rất nhiều 🥰*
+> [!quote]- Còn một điều nữa☝️...
+> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
+> 
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
 
 
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - web debugging proxy
 cssclasses:
-  - imgAdj
+  - img
 ---
 # Tổng quan
 **Một proxy cho phép gỡ lỗi web** là một chương trình hoạt động với tư cách là một **máy chủ trung gian**, chuyên phân tích, thu thập và chỉnh sửa lưu lượng **HTTP/HTTPs** giữa các thiết bị người dùng, trang web hoặc ứng dụng với nhau trên không gian mạng
@@ -397,17 +397,10 @@ Hãy cân nhắc yêu cầu của dự án để biết bạn nên chọn phiên
 8. Trên điện thoại, thực hiện các bước tái tạo lỗi
 9. Xong rồi thì nhấp vào **File**, di chuột qua **Save Archive** và chọn **All Sessions**, sau đó lưu lại ở định dạng **.saz** (đừng chọn bất kì tùy chọn mã hóa nào)
 
-> [!quote] Này bạn đọc ...
-> *Đừng quên thả tương tác 👍 kèm bình luận của bạn ✍️ để giúp mình cải thiện blog nhé!* 
-> > [!tip]- Và có thể ủng hộ một ít động lực đó ngay bây giờ bằng các cách sau
-> > - Qua nền tảng Ko-fi:
-> > 
-> >   <a href='https://ko-fi.com/M4M111S8CI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-> > - Qua ngân hàng Việt:
-> >   
-> >   ![[91405bac428be6d5bf9a.jpg|250]]
-> > 
-> > *Bạn có thể chỉnh cho phù hợp túi tiền, cảm ơn sự hào phóng của bạn rất nhiều 🥰*
+> [!quote]- Còn một điều nữa☝️...
+> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
+> 
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
 
 
 

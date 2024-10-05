@@ -3,10 +3,11 @@ name: Create Pull Request and Sync Fork
 on:
   push:
     branches:
-      - content
+      - v4
 
 jobs:
   create-pr:
+    if: github.actor != 'PhDoanh'
     runs-on: ${{ matrix.os }}
 
     strategy:
@@ -24,20 +25,21 @@ jobs:
           title: 'New Changes'
           body: 'Automatically created PR for new changes.'
           base: v4
-          head: content
+          head: v4
 
   sync-fork:
+    if: github.actor != 'PhDoanh'
     runs-on: ${{ matrix.os }}
     needs: create-pr
     steps:
-      - name: Checkout the forked repository
+      - name: Checkout repo
         uses: actions/checkout@v2
         with:
           repository: ${{ github.repository }}
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Add the original repository as a remote
+      - name: Sync Fork
         run: |
           git remote add upstream https://github.com/PhDoanh/doanhanma.git
           git fetch upstream

@@ -66,14 +66,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        // from data-repo
         repo: 'PhDoanh/doanhanma',
-        // from data-repo-id
         repoId: 'R_kgDOMh8WzA',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOMh8WzM4Chibk',
+        category: 'General',
+        categoryId: 'DIC_kwDOMh8WzM4Chibl',
         inputPosition: "top",
       }
     }),

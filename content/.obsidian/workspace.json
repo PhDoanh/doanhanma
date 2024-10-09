@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff706768a2d820cc",
+        "id": "f79017aafb68751b",
         "type": "tabs",
         "children": [
           {
-            "id": "db3794a6e94f9e92",
+            "id": "4560fa1fc69ef784",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
+                "file": "materials/ps 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft.md",
+                "file": "materials/ps 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft.md",
+                "file": "materials/ps 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft.md"
+                "file": "materials/ps 2.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,52 +176,53 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "db3794a6e94f9e92",
+  "active": "4560fa1fc69ef784",
   "lastOpenFiles": [
-    "index.md",
-    "draft.md",
-    "materials/ca 5.2.md",
+    "materials/ps 2.md",
+    "materials/nihongo 34.md",
+    "materials/nihongo 33.md",
+    "materials/nihongo 32.md",
+    "materials/nihongo 31.md",
+    "materials/nihongo 30.md",
+    "materials/nihongo 29.md",
+    "materials/nihongo 28.md",
+    "materials/nihongo 27.md",
+    "materials/nihongo 26.md",
+    "materials/nihongo 25.md",
+    "materials/nihongo 24.md",
+    "materials/nihongo 23.md",
+    "materials/nihongo 22.md",
+    "materials/nihongo 21.md",
+    "materials/nihongo 20.md",
+    "materials/nihongo 19.md",
+    "materials/nihongo 18.md",
+    "materials/nihongo 17.md",
+    "materials/nihongo 16.md",
+    "materials/nihongo 15.md",
+    "materials/nihongo 14.md",
+    "materials/nihongo 13.md",
+    "materials/nihongo 12.md",
+    "materials/nihongo 11.md",
+    "materials/nihongo 10.md",
+    "images/Pasted image 20241009065332.png",
+    "Pasted image 20241009065329.png",
+    "images/Screen Recording 2024-10-08 080902.mp3",
+    "images/Screen Recording 2024-10-08 080835.mp3",
+    "images/Screen Recording 2024-10-08 081125.mp3",
+    "images/Screen Recording 2024-10-08 081103.mp3",
+    "images/Screen Recording 2024-10-08 081044.mp3",
+    "images/Screen Recording 2024-10-08 081024.mp3",
+    "images/Screen Recording 2024-10-08 081005.mp3",
+    "images/Screen Recording 2024-10-08 080944.mp3",
+    "images/Screen Recording 2024-10-08 080923.mp3",
     "images/Pasted image 20241004155630.png",
     "images/Pasted image 20241004155546.png",
-    "materials/nihongo 4.md",
-    "materials/ca 5.1.md",
     "images/Pasted image 20241004133859.png",
-    "materials/ca 0.md",
     "images/Pasted image 20241003161945.png",
     "images/Pasted image 20241003160502.png",
     "images/Pasted image 20241003161652.png",
     "Pasted image 20241003161438.png",
     "images/Pasted image 20241003160149.png",
-    "tags/japanese.md",
-    "tags/grammar.md",
-    "tags/my-product.md",
-    "tags/coding.md",
-    "templates/advanced table.md",
-    "templates/articles.md",
-    "templates/foldersPage.md",
-    "templates/nihongo.md",
-    "materials/nihongo 32.md",
-    "materials/nihongo 33.md",
-    "materials/nihongo 5.md",
-    "materials/nihongo 2.md",
-    "materials/nihongo 1.md",
-    "images/Screen Recording 2024-10-01 075840.mp3",
-    "images/Screen Recording 2024-10-01 080333.mp3",
-    "images/Screen Recording 2024-10-01 080316.mp3",
-    "images/Screen Recording 2024-10-01 080256.mp3",
-    "images/Screen Recording 2024-10-01 080233.mp3",
-    "images/Screen Recording 2024-10-01 080212.mp3",
-    "images/Screen Recording 2024-10-01 080145.mp3",
-    "images/Screen Recording 2024-10-01 080007.mp3",
-    "images/Screen Recording 2024-10-01 075941.mp3",
-    "images/Screen Recording 2024-10-01 075921.mp3",
-    "materials/nihongo 31.md",
-    "images/B612_20230706_222553_706.jpg",
-    "products/fixyourpc.md",
-    "materials/vector.md",
-    "Untitled.md",
-    "materials/stack.md",
-    "materials/sql.md",
-    "images/Pasted image 20240915215658.png"
+    "images/Screen Recording 2024-10-01 075840.mp3"
   ]
 }
